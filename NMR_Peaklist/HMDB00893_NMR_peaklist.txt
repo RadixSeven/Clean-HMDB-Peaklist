@@ -1,5 +1,5 @@
 # HMDB00893 (Suberic acid) HNMR Peaklists:
-Table of Peaks 
+Table of Peaks
 No. 	(ppm) 	(Hz) 	Height 
 1 	2.18 	1089.3 	0.5744 
 2 	2.16 	1081.7 	1.0000 
@@ -13,7 +13,7 @@ No. 	(ppm) 	(Hz) 	Height
 10 	1.29 	643.6 	0.3347 
 11 	1.28 	639.8 	0.2268 
 
-Table of Multiplets 
+Table of Multiplets
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	(ppm) 
 1 	2.16 	4 	t 	7.51 	9, 4 	M00 	[2.14 .. 2.19] 
 2 	1.54 	4 	t 	7.14 	8, 5 	M01 	[1.49 .. 1.58] 

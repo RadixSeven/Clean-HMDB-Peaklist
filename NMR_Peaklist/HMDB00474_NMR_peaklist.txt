@@ -1,5 +1,5 @@
 # HMDB00474 (Butanone) HNMR Peaklists:
-Table of peaks
+Table of Peaks
 No. 	(ppm) 	(Hz) 	Height
 1 	1.04 	521.8 	0.2864 	
 2 	1.06 	529.1 	0.5485 	

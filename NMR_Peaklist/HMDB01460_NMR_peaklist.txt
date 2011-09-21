@@ -1,4 +1,5 @@
 # HMDB01460 (Diethylthiophosphate) HNMR Peaklists:
+Table of Peaks
 No. (ppm) (Hz) Height
 1 1.25 751.0 0.4894
 2 1.26 758.1 1.0000

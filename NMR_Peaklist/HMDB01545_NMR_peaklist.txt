@@ -1,5 +1,5 @@
 # HMDB01545 (Pyridoxal) HNMR Peaklists:
-List of Peaks
+Table of Peaks
 No.	(ppm)	(Hz)	Height
 1	2.448	1467.5	0.1728
 2	5.027	3013.1	0.0156

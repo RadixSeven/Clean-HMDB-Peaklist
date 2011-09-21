@@ -1,4 +1,5 @@
 # HMDB01464 (1-Methylnicotinamide iodide) HNMR Peaklists:
+Table of Peaks
 No.	(ppm)	Height
 1	4.40	1.0000
 2	8.23	0.0819

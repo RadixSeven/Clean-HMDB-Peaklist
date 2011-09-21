@@ -1,5 +1,5 @@
 # HMDB00237 (Propionic acid) HNMR Peaklists:
-Table fo Peaks
+Table of Peaks
 No.	(ppm)	(Hz)	Height
 1	1.03	514.0	0.4770
 2	1.04	521.7	1.0000

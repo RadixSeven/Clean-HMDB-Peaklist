@@ -1,5 +1,5 @@
 # HMDB00148 (L-Glutamic acid) HNMR Peaklists:
-List of Peaks
+Table of Peaks
 No.	(ppm)	(Hz)	Height
 1	2.003	1001.0	0.0981
 2	2.017	1008.1	0.2012
@@ -29,14 +29,14 @@ No.	(ppm)	(Hz)	Height
 26	3.750	1874.4	0.6567
 27	3.760	1879.2	0.5805
 
-List of Multiplets
+Table of Multiplets
 No.	Shift1 (ppm)	H's	Type	Atom1	Multiplet1	 (ppm)
 1	2.029	10	m	6	M03	[1.986 .. 2.071]
 2	2.121	12	m	6	M02	[2.070 .. 2.173]
 3	2.341	21	m	7	M04	[2.279 .. 2.403]
 4	3.747	9	dd	4	M01	[3.716 .. 3.777]
 
-List of Assignments
+Table of Assignments
 No.	Atom	Exp. Shift (ppm)	Multiplet
 1	6	2.029	M03
 2	6	2.121	M02

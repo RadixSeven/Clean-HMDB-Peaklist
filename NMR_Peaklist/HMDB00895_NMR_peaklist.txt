@@ -1,5 +1,5 @@
 # HMDB00895 (Acetylcholine ) HNMR Peaklists:
-Table of peaks
+Table of Peaks
 No. 	(ppm) 	(Hz) 	Height
 1 	2.16 	1077.3 	0.3514 	
 2 	3.23 	1613.5 	1.0000 	

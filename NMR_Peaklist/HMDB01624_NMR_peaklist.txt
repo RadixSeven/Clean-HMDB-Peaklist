@@ -1,6 +1,5 @@
 # HMDB01624 (2-Hydroxycaproic acid) HNMR Peaklists:
-Tables of Peaks
-
+Table of Peaks
 No. 	(ppm) 	(Hz) 	Height
 1 	4.04 	2423.4 	0.1427 	
 2 	4.04 	2419.1 	0.1598 	

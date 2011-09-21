@@ -1,15 +1,16 @@
 # HMDB01476 (3-Hydroxyanthranilic acid) HNMR Peaklists:
+Table of Peaks
+No. 	(ppm) 	(Hz) 	Height
+1 	6.702 	4023.48 	0.4501
+2 	6.949 	4171.81 	0.3141
+3 	7.286 	4373.84 	0.2853
+
+Experiment Metadata
 3-Hydroxyanthranilic 
 HMDB01476 
 DNMR spectrum:600MHz in H2O 
 50mM at PH 7.0
 Reference to DSS
-
-Table if Peaks
-No. 	(ppm) 	(Hz) 	Height
-1 	6.702 	4023.48 	0.4501
-2 	6.949 	4171.81 	0.3141
-3 	7.286 	4373.84 	0.2853
 
 Table of Multiplets
 No. 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)

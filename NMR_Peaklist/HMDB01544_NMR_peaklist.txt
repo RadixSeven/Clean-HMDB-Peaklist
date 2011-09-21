@@ -1,12 +1,5 @@
 # HMDB01544 (m-Chlorobenzoic acid) HNMR Peaklists:
-m-Chlorobenzoic acid 
-HMDB01544 
-1DNMR spectrum:600MHz in H2O
-50mM at PH 7.0
-Reference to DSS
-
-
-Table of Peaks 
+Table of Peaks
 No. 	(ppm) 	(Hz) 	Height
 1 	7.432 	4461.44 	1.0000
 2 	7.527 	4518.66 	0.4268
@@ -26,6 +19,13 @@ No. 	Atom 	Multiplet
 2 	2 	M02
 3 	4 	M03
 4 	6 	M04
+
+Experiment Metadata
+m-Chlorobenzoic acid 
+HMDB01544 
+1DNMR spectrum:600MHz in H2O
+50mM at PH 7.0
+Reference to DSS
 
  
 

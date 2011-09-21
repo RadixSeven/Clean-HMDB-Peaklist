@@ -1,5 +1,5 @@
 # HMDB02899 (Ellagic acid) HNMR Peaklists:
-Table of Praks
+Table of Peaks
 No.	(ppm)	Height
 1	7.46	0.3993
 

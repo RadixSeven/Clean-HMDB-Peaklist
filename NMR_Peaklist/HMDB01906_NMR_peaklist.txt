@@ -1,9 +1,9 @@
 # HMDB01906 (2-Aminoisobutyric acid) HNMR Peaklists:
-Table of Peaks 
+Table of Peaks
 No. 	(ppm) 	(Hz) 	Height 
 1 	1.48 	740.9 	1.0000
 
-Table of Multiplets 
+Table of Multiplets
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	(ppm) 
 1 	1.48 	6 	s 	- 	6, 7 	M01 	[1.45 .. 1.51] 
 

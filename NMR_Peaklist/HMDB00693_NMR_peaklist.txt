@@ -1,5 +1,5 @@
 # HMDB00693 (Heparan sulfate) HNMR Peaklists:
-Table pf Peaks
+Table of Peaks
 No.	(ppm)	Height
 1	3.27	0.2038
 2	3.28	0.4206
@@ -8,13 +8,13 @@ No.	(ppm)	Height
 5	4.58	0.0344
 6	4.59	0.0180
 
-Table pf Multiplets
+Table of Multiplets
 No.	Shift1 (ppm)	H's	Type	Atom1				Multiplet1	 (ppm)
 1	3.27		2	m	21				M03		[3.25 .. 3.29]
 2	3.82		8	s	15, 20, 19, 18, 5, 4, 3, 2	M02		[3.76 .. 3.88]
 3	4.56		2	m	17, 6				M01		[4.52 .. 4.62]
 
-Table pf Assignments
+Table of Assignments
 No.	Atom	Exp. Shift (ppm)	Multiplet
 1	21	3.27			M03
 2	15	3.82			M02

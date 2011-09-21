@@ -1,4 +1,5 @@
 # HMDB02097 (4-Ethylbenzoic acid) HNMR Peaklists:
+Table of Peaks
 No. (ppm) (Hz) Height
 1 0.00 0.0 1.0000
 2 1.20 719.3 0.2958
