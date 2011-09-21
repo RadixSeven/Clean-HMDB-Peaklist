@@ -1,0 +1,4 @@
+# This file contains a list of the HMDB identifiers of entries that do
+# not have a peaklist for H1-NMR as part of their peaklist entry.
+
+HMDB00158
