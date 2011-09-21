@@ -1,0 +1,26 @@
+# HMDB00906 (Trimethylamine) HNMR Peaklists:
+Table of Assignments
+No. 	Atom 	Exp. Shift (ppm) 	Multiplet
+1 	2 	2.89 	M01
+2 	3 	2.89 	M01
+3 	4 	2.89 	M01
+
+Table of Multiplets
+No. 	Shift1 (ppm) 	H's 	Type 	Atom1 	Multiplet1 	 (ppm)
+1 	2.89 	7 	s 	2, 3, 4 	M01 	[2.79 .. 2.99]
+
+
+
+
+# HMDB00906 (Trimethylamine) CNMR Peaklist:
+
+
+
+# HMDB00906 (Trimethylamine) 2D HSQC Peaklist:
+	#	F2[ppm]	F1[ppm]	Intensity	Annotation
+
+	1	2.8821	47.4741	6242543.00
+
+ 
+
+

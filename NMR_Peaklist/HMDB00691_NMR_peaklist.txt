@@ -1,0 +1,27 @@
+# HMDB00691 (Malonic acid) HNMR Peaklists:
+Table of Peaks
+No.	(ppm)	(Hz)	Height
+1 	3.11 	1556.7 	1.0000
+	
+
+Table of Multiplets
+No.	Shift1 (ppm)	H's	Type	Atom1	Multiplet1	 (ppm)
+1 	3.11 	2 	s 	4 	M00 	[3.04 .. 3.21]
+
+Table of Assignments
+No.	Atom	Exp. Shift (ppm)	Multiplet
+1 	4 	3.11 	M00
+
+
+
+# HMDB00691 (Malonic acid) CNMR Peaklist:
+
+
+
+# HMDB00691 (Malonic acid) 2D HSQC Peaklist:
+	#	F2[ppm]	F1[ppm]	Intensity
+	1	3.1118	50.2333	35617818.00
+
+ 
+
+

@@ -1,0 +1,27 @@
+# HMDB00042 (Acetic acid) HNMR Peaklists:
+Table of Peaks
+No.	(ppm)	(Hz)	Height
+1	1.91	953.8	1.0000
+
+Table of Multiplets
+No.	Shift1 (ppm)	H's	Type	Atom1	Multiplet1	 (ppm)
+1	1.91		3	s	4	M01		[1.89 .. 1.93]
+
+Table of Assignments
+No.	Atom	Exp. Shift (ppm)	Multiplet
+1	4	1.91			M01
+
+
+
+
+# HMDB00042 (Acetic acid) CNMR Peaklist:
+
+
+
+# HMDB00042 (Acetic acid) 2D HSQC Peaklist:
+	#	F2[ppm]	F1[ppm]	Intensity
+	1	1.9059	26.0899	18083539.00
+
+ 
+
+

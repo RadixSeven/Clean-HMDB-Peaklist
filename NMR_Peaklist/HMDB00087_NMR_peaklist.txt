@@ -1,0 +1,29 @@
+# HMDB00087 (Dimethylamine) HNMR Peaklists:
+Table of Peaks
+No. 	(ppm) 	(Hz) 	Height
+1 	2.50 	1249.5 	1.0000 	
+
+Table of Multiplets
+No. 	Shift1 (ppm) 	H's 	Type 	Atom1 	Multiplet1 	 (ppm)
+1 	2.50 	3 	s 	2, 3 	M01 	[2.49 .. 2.51]
+
+Table of Assignments
+No. 	Atom 	Exp. Shift (ppm) 	Multiplet
+1 	2 	2.50 	M01
+2 	3 	2.50 	M01
+
+
+
+
+# HMDB00087 (Dimethylamine) CNMR Peaklist:
+
+
+
+# HMDB00087 (Dimethylamine) 2D HSQC Peaklist:
+	#	F2[ppm]	F1[ppm]	Intensity	Annotation
+
+	1	2.7108	37.2968	2551764.00
+
+ 
+
+

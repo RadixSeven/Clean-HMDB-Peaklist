@@ -1,0 +1,24 @@
+# HMDB02001 (Dimethylmalonic acid) HNMR Peaklists:
+Table of Peaks
+No. 	(ppm) 	(Hz) 	Height
+1 	1.43 	713.2 	1.0000 	
+
+Table of Multiplets
+No. 	Shift1 (ppm) 	H's 	Type 	Atom1 	Multiplet1 	 (ppm)
+1 	1.43 	5 	s 	5, 6 	M01 	[1.41 .. 1.45]
+
+Table of Assignments
+No. 	Atom 	Exp. Shift (ppm) 	Multiplet
+1 	5 	1.43 	M01
+2 	6 	1.43 	M01
+
+
+
+
+# HMDB02001 (Dimethylmalonic acid) 2D HSQC Peaklist:
+	#	F2[ppm]	F1[ppm]	Intensity
+	1	1.2432	26.8572	127364011.00
+
+ 
+
+

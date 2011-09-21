@@ -1,0 +1,15 @@
+# HMDB00754 (3-Hydroxyisovaleric acid) HNMR Peaklists:
+No. (ppm) (Hz) Height
+1 1.26 754.0 1.0000
+2 2.35 1411.9 0.3249
+ 
+
+
+# HMDB00754 (3-Hydroxyisovaleric acid) 2D HSQC Peaklist:
+	#	F2[ppm]	F1[ppm]	Intensity
+	1	2.3862	52.0994	49040968.00
+	2	1.2933	30.6721	80136491.00
+
+ 
+
+

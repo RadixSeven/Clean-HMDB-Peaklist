@@ -1,0 +1,44 @@
+# HMDB01464 (1-Methylnicotinamide iodide) HNMR Peaklists:
+No.	(ppm)	Height
+1	4.40	1.0000
+2	8.23	0.0819
+3	8.24	0.0999
+4	8.24	0.1130
+5	8.25	0.0879
+6	8.90	0.1245
+7	8.91	0.1212
+8	9.10	0.1288
+9	9.11	0.1272
+10	9.40	0.2184
+
+Table of Multiplets
+No.	Shift1 (ppm)	H's	Type	J (Hz)		Atom1		Multiplet1	 (ppm)
+1	4.40		3	s	-		9		M05		[4.37 .. 4.43]
+2	8.24		1	dd	7.87, 6.33	4		M04		[8.20 .. 8.29]
+3	8.90		1	d	8.09		3		M03		[8.86 .. 8.94]
+4	9.10		1	d	6.05		5		M02		[9.05 .. 9.15]
+5	9.40		1	s	-		1		M01		[9.36 .. 9.44]
+
+Table of Assignments
+No.	Atom	Exp. Shift (ppm)	Multiplet
+1	9	4.40			M05
+2	4	8.24			M04
+3	3	8.90			M03
+4	5	9.10			M02
+5	1	9.40			M01
+
+
+ 
+
+
+# HMDB01464 (1-Methylnicotinamide iodide) 2D HSQC Peaklist:
+     #        F2[ppm]           F1[ppm]       Intensity  
+     1         9.4016          145.5297       109426.00
+     2         9.1021          147.0627      7185874.25
+     3         8.9055          142.7479      6562781.75
+     4         8.2423          127.1478     23327826.25
+     5         4.3990           48.1456     80306837.75
+
+ 
+
+

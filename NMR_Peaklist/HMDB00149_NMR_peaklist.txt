@@ -1,0 +1,36 @@
+# HMDB00149 (Ethanolamine) HNMR Peaklists:
+Table of Peaks
+No.	(ppm)	(Hz)	Height
+1	3.12	1873.7	0.9128
+2	3.13	1878.9	1.0000
+3	3.13	1880.1	0.5884
+4	3.14	1884.3	0.9641
+5	3.80	2281.7	0.7559
+6	3.81	2287.0	0.8481
+7	3.82	2292.2	0.7175
+
+Table of Multiplets
+No.	Shift1 (ppm)	H's	Type	J (Hz)	Atom1	Multiplet1	 (ppm)
+1	3.13		1	d	5.21	3	M02		[3.11 .. 3.16]
+2	3.81		2	d	5.29	2	M01		[3.79 .. 3.84]
+
+Table of Assignments
+No.	Atom	Exp. Shift (ppm)	Multiplet
+1	3	3.13			M02
+2	2	3.81			M01
+
+ 
+
+
+# HMDB00149 (Ethanolamine) CNMR Peaklist:
+
+
+
+# HMDB00149 (Ethanolamine) 2D HSQC Peaklist:
+	#	F2[ppm]	F1[ppm]	Intensity
+	1	3.8095	60.5755	461689.75
+	2	3.1330	44.1867	679169.25
+
+ 
+
+

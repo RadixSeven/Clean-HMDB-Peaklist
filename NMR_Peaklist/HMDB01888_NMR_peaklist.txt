@@ -1,0 +1,34 @@
+# HMDB01888 (N,N-Dimethylformamide) HNMR Peaklists:
+Table of Peaks
+No.	(ppm)	Height
+1	2.85	0.6671
+2	2.85	0.6585
+3	3.01	1.0000
+4	3.01	0.9230
+5	7.92	0.0757
+
+Table of Multiplets
+No.	Shift1 (ppm)	H's	Type	J (Hz)	Atom1	Multiplet1	 (ppm)
+1	2.85		3	d	0.77	4	M03		[2.84 .. 2.86]
+2	3.01		3	d	0.50	5	M02		[3.00 .. 3.01]
+3	7.92		1	s	-	2	M01		[7.90 .. 7.95]
+
+Table of Assignments
+No.	Atom	Exp. Shift (ppm)	Multiplet
+1	4	2.85		M03
+2	5	3.01		M02
+3	2	7.92		M01
+
+
+ 
+
+
+# HMDB01888 (N,N-Dimethylformamide) 2D HSQC Peaklist:
+﻿     #  F2[ppm]           F1[ppm]       Intensity       
+     1  7.9227          167.7345      3745664.38
+     2  3.0037           39.5374     15215356.25
+     3  2.8497           34.0470      8563855.50
+
+ 
+
+

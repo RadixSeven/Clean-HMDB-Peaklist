@@ -1,0 +1,29 @@
+# HMDB00634 (Citraconic acid) HNMR Peaklists:
+List of Peaks
+No.	(ppm)	(Hz)	Height
+1	1.912	1146.0	0.4610
+2	1.914	1147.5	0.4591
+3	5.596	3354.6	0.1231
+4	5.599	3356.1	0.1238
+
+List of Multiplets
+No.	Shift1 (ppm)	H's	Type	J (Hz)	Atom1	Multiplet1	 (ppm)
+1	1.913	18	d	1.54	8	M02	[1.831 .. 1.964]
+2	5.598	7	d	1.54	5	M01	[5.530 .. 5.633]
+
+List of Assignments
+No.	Atom	Exp. Shift (ppm)	Multiplet
+1	8	1.913	M02
+2	5	5.598	M01
+
+
+
+
+# HMDB00634 (Citraconic acid) 2D HSQC Peaklist:
+	#	F2[ppm]	F1[ppm]	Intensity
+	1	5.5059	123.1211	28032152.00
+	2	1.9087	23.0950	41230252.00
+
+ 
+
+

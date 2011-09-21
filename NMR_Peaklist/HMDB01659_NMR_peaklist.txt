@@ -1,0 +1,29 @@
+# HMDB01659 (Acetone) HNMR Peaklists:
+Table of Peaks
+No.	(ppm)	(Hz)	Height
+1	2.22	1109.5	1.0000
+
+Table of Multiplets
+No.	Shift1 (ppm)	H's	Type	Atom1	Multiplet1	 (ppm)
+1	2.22		6	s	4, 3	M01		[2.21 .. 2.24]
+
+Table of Assignments
+No.	Atom	Exp. Shift (ppm)	Multiplet
+1	4	2.22			M01
+2	3	2.22			M01
+
+
+
+
+# HMDB01659 (Acetone) CNMR Peaklist:
+
+
+
+# HMDB01659 (Acetone) 2D HSQC Peaklist:
+     #  F2[ppm]    F1[ppm]    Intensity  
+     1  2.2220     32.9183    485181.00
+     2  0.0000     0.0204     100514.00
+
+ 
+
+

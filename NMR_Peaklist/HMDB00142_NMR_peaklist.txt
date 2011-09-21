@@ -1,0 +1,28 @@
+# HMDB00142 (Formic acid) HNMR Peaklists:
+Table of Peaks
+No.	(ppm)	(Hz)	Height
+1	8.44	4219.1	1.0000
+
+Table of Multiplets
+No.	Shift1 (ppm)	H's	Type	Atom1	Multiplet1	 (ppm)
+1	8.44		1	s	2	M01		[8.38 .. 8.51]
+
+Table of Assignments
+No.	Atom	Exp. Shift (ppm)	Multiplet
+1	2	8.44			M01
+
+
+
+
+# HMDB00142 (Formic acid) CNMR Peaklist:
+
+
+
+# HMDB00142 (Formic acid) 2D HSQC Peaklist:
+	#	F2[ppm]	F1[ppm]	Intensity	Annotation
+
+	1	8.3904	172.4119	1940256.00
+
+ 
+
+

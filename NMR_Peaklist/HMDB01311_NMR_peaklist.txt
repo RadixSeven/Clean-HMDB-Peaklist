@@ -1,0 +1,25 @@
+# HMDB01311 (D-Lactic acid) HNMR Peaklists:
+Table of Peaks
+No. 	(ppm) 	(Hz) 	Height
+1 	1.40 	698.3 	1.0000 	
+2 	1.41 	705.3 	0.9129 	
+
+Table of Multiplets
+No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
+1 	1.40 	4 	d 	7.00 	6 	M01 	[1.37 .. 1.43]
+
+Table of Assignments
+No. 	Atom 	Exp. Shift (ppm) 	Multiplet
+1 	6 	1.40 	M01
+
+
+
+
+# HMDB01311 (D-Lactic acid) 2D HSQC Peaklist:
+	#	F2[ppm]	F1[ppm]	Intensity
+	1	4.1194	71.1121	14871374.50
+	2	1.3180	22.9058	40297235.50
+
+ 
+
+

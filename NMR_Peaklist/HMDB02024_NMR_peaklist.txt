@@ -1,0 +1,32 @@
+# HMDB02024 (Imidazoleacetic acid) HNMR Peaklists:
+Table of Peaks
+No. 	(ppm) 	(Hz) 	Height
+1 	4.75 	2374.2 	0.0941 	
+2 	8.60 	4296.8 	1.0000 	
+3 	12.10 	6047.9 	0.2334 	
+4 	13.39 	6692.5 	0.1896 	
+
+Table of Multiplets
+No. 	Shift1 (ppm) 	H's 	Type 	Atom1 	Multiplet1 	 (ppm)
+1 	13.39 	1 	s 	2 	M01 	[13.35 .. 13.43]
+2 	12.10 	1 	s 	5 	M02 	[12.05 .. 12.15]
+3 	8.60 	3 	s 	6 	M03 	[8.55 .. 8.66]
+
+Table of Assignments
+No. 	Atom 	Exp. Shift (ppm) 	Multiplet
+1 	6 	8.60 	M03
+2 	5 	12.10 	M02
+3 	2 	13.39 	M01
+
+
+
+
+# HMDB02024 (Imidazoleacetic acid) 2D HSQC Peaklist:
+	#	F2[ppm]	F1[ppm]	Intensity
+	1	8.3775	136.0889	29164788.50
+	2	7.1807	119.5009	31371621.38
+	3	3.6164	35.9204	55844820.63
+
+ 
+
+

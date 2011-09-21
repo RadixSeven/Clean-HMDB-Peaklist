@@ -1,0 +1,27 @@
+# HMDB00254 (Succinic acid) HNMR Peaklists:
+Table of Peaks
+No.	(ppm)	(Hz)	Height
+1 	2.39 	1196.2 	1.0000
+
+Table of Multiplets
+No.	Shift1 (ppm)	H's	Type	Atom1	Multiplet1	 (ppm)
+1 	2.39 	4 	s 	4, 5 	M00 	[2.32 .. 2.48]
+
+Table of Assignments
+No.	Atom	Exp. Shift (ppm)	Multiplet
+1 	5 	2.39 	M00
+2 	4 	2.39 	M00
+
+
+
+# HMDB00254 (Succinic acid) CNMR Peaklist:
+
+
+
+# HMDB00254 (Succinic acid) 2D HSQC Peaklist:
+	#	F2[ppm]	F1[ppm]	Intensity
+	1	2.3877	36.8267	25579466.00
+
+ 
+
+

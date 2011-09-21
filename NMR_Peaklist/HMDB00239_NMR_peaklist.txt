@@ -1,0 +1,53 @@
+# HMDB00239 (Pyridoxine) HNMR Peaklists:
+Table of Peaks
+No. 	(ppm) 	(Hz) 	Height
+1 	2.45 	1227.1 	1.0000 	
+2 	4.73 	2365.6 	0.1170 	
+3 	7.65 	3824.0 	0.4839 	
+
+Table of Multiplets
+No. 	Shift1 (ppm) 	H's 	Type 	Atom1 	Multiplet1 	 (ppm)
+1 	2.45 	5 	s 	7 	M03 	[2.43 .. 2.48]
+2 	4.73 	1 	s 	11 	M02 	[4.72 .. 4.75]
+3 	7.65 	3 	s 	6 	M01 	[7.63 .. 7.68]
+
+Table of Assignments
+No. 	Atom 	Exp. Shift (ppm) 	Multiplet
+1 	7 	2.45 	M03
+2 	11 	4.73 	M02
+3 	6 	7.65 	M01
+
+
+
+
+Table of Peaks
+No.	(ppm)	(Hz)	Height
+1	2.46	1473.5	1.0000
+2	7.65	4590.1	0.3059
+
+Table of Multiplets
+No.	Shift1 (ppm)	H's	Type	Atom1	Multiplet1	 (ppm)
+1	2.46	3	s	7	M02	[2.43 .. 2.49]
+2	7.65	1	s	6	M01	[7.62 .. 7.68]
+
+Table of Assignments
+No.	Atom	Exp. Shift (ppm)	Multiplet
+1	7	2.46	M02
+2	6	7.65	M01
+
+ 
+
+
+# HMDB00239 (Pyridoxine) 2D HSQC Peaklist:
+     #   F2[ppm]          F1[ppm]       Intensity       
+
+     1   7.6466          127.4859      1177376.00
+     2   4.8196           58.5894      1805420.00
+     3   4.7362           61.4687      2783136.00
+     4   2.4864           18.2602       709064.00
+     5   2.4229           18.2602       640652.00
+
+
+ 
+
+

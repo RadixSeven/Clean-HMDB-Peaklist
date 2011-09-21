@@ -1,0 +1,29 @@
+# HMDB01891 (m-Aminobenzoic acid) HNMR Peaklists:
+No. (ppm) (Hz) Height
+1 6.96 4180.9 0.3069
+2 6.98 4189.7 0.3550
+3 7.27 4362.3 0.1998
+4 7.28 4370.2 1.0000
+5 7.29 4377.7 0.4868
+6 7.31 4387.4 0.5166
+7 7.32 4394.8 0.2550
+ 
+
+
+# HMDB01891 (m-Aminobenzoic acid) 2D HSQC Peaklist:
+# PEAKLIST_VERSION 1.1
+# PEAKLIST_DIMENSION 2
+# 2006-12-29T12:47:11  nmrsu
+# DU=/opt/topspin, USER=nmrsu@granada.bio.ucalgary.ca, NAME=Met_Tool_2D_DB, EXPNO=1859, PROCNO=1
+# Manually picked peaks
+
+     #     F2#     F1#           F2[ppm]           F1[ppm]       Intensity       Annotation
+
+     1   603.0   136.8            7.3096          122.6558     13259853.00
+     2   607.8   146.8            7.2815          119.3211     28344559.00
+     3   608.3   108.7            7.2789          131.9874     10625324.00
+     4   661.0   139.1            6.9696          121.8992     15439291.00
+
+ 
+
+

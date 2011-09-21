@@ -1,0 +1,32 @@
+# HMDB02099 (6-Methyladenine) HNMR Peaklists:
+Table of Peaks
+No.	(ppm)	Height
+1	2.95	0.0655
+2	8.06	0.1347
+
+Table of Multiplets
+No.	Shift1 (ppm)	H's	Type	Atom1	Multiplet1	 (ppm)
+1	2.95		3	br. s.	11	M03		[2.85 .. 3.06]
+2	8.06		1	s	2	M02		[8.03 .. 8.09]
+3	8.19		1	br. s.	6	M01		[8.14 .. 8.24]
+
+Table of Assignment
+No.	Atom	Exp. Shift (ppm)		Multiplet
+1	11	2.95			M03
+2	2	8.06			M02
+3	6	8.19			M01
+
+
+ 
+
+
+# HMDB02099 (6-Methyladenine) 2D HSQC Peaklist:
+     #   F2[ppm]           F1[ppm]       Intensity       
+     1   8.1923          152.2176      8719048.44
+     2   8.0615          138.4407     28212092.94
+     3   2.9529           26.8914      6479972.88
+     4   2.5066           39.5113     18248248.38
+
+ 
+
+

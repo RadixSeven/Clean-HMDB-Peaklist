@@ -1,0 +1,30 @@
+# HMDB00223 (Oxalacetic acid) HNMR Peaklists:
+Table of Peaks
+No.	(ppm)	(Hz)	Height
+1 	2.35 	1410.3 	1.0000
+
+
+Table of Multiplets
+No.	Shift1 (ppm)	H's	Type	Atom1	Multiplet1	(ppm)
+1 	2.35 	2 	s 	4 	M00 	[2.33 .. 2.37]
+
+
+Table of Assignments
+No.	Atom	Exp. Shift (ppm)	Multiplet
+1 	4 	2.35	M00
+
+
+
+# HMDB00223 (Oxalacetic acid) 2D HSQC Peaklist:
+Oxalacetic acid (HMDB00223) 
+2D HSQC spectrum
+50 mM at pH 7.0, 298 K
+Referenced to DSS
+
+#     F2[ppm]           F1[ppm]       Intensity       
+
+1     2.3694           29.2229     17964200.00
+
+ 
+
+

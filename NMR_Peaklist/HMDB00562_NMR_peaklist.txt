@@ -1,0 +1,32 @@
+# HMDB00562 (Creatinine) HNMR Peaklists:
+Table of Peaks
+No.	(ppm)	(Hz)	Height
+1 	4.05 	2023.3 	0.4374
+2 	3.03 	1516.5 	1.0000
+
+Table of Multiplets
+No.	Shift1 (ppm)	H's	Type	Atom1	Multiplet1	 (ppm)
+1 	3.03 	3 	s 	7 	M01 	[2.92 .. 3.12]
+2 	4.05 	2 	s 	3 	M00 	[3.97 .. 4.12]
+
+Table of Assignments
+No.	Atom	Exp. Shift (ppm)	Multiplet
+1 	3 	4.05	 M00
+2 	7 	3.03 	M01
+
+
+
+
+
+# HMDB00562 (Creatinine) CNMR Peaklist:
+
+
+
+# HMDB00562 (Creatinine) 2D HSQC Peaklist:
+	#	F2[ppm]	F1[ppm]	Intensity
+	1	4.0532	59.2362	1894502.17
+	2	3.0386	32.9748	1256499.81
+
+ 
+
+

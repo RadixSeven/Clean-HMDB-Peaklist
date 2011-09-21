@@ -1,0 +1,26 @@
+# HMDB00164 (Methylamine) HNMR Peaklists:
+Table of Peaks
+No.	(ppm)	(Hz)	Height
+1	2.59	1295.2	1.0000
+
+Table of Multiplets
+No.	Shift1 (ppm)	H's	Type	Atom1	Multiplet1	 (ppm)
+1	2.59		3	s	2	M01		[2.57 .. 2.62]
+
+Table of Assignments
+No.	Atom	Exp. Shift (ppm)	Multiplet
+1	2	2.59			M01
+
+
+
+# HMDB00164 (Methylamine) CNMR Peaklist:
+
+
+
+# HMDB00164 (Methylamine) 2D HSQC Peaklist:
+	#	F2[ppm]	F1[ppm]	Intensity
+	1	2.5934	27.6046	1850112.69
+
+ 
+
+

@@ -1,0 +1,8 @@
+# HMDB03402 (Pectin) 2D HSQC Peaklist:
+     #        F2[ppm]           F1[ppm]     Intensity  
+     1        3.7950           55.4303      1873127.75
+     2        2.6746           40.8353       794786.75
+
+ 
+
+

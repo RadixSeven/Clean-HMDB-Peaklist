@@ -1,0 +1,41 @@
+# HMDB04230 (Pyrrole-2-carboxylic acid) HNMR Peaklists:
+Table of Peaks
+No.	(ppm)	Height
+1	6.17	0.0514
+2	6.18	0.0541
+3	6.18	0.0516
+4	6.18	0.0423
+5	6.84	0.0492
+6	6.85	0.0505
+7	6.85	0.0450
+8	6.85	0.0406
+9	6.94	0.0487
+10	6.94	0.0495
+11	6.94	0.0471
+12	6.94	0.0354
+
+Table of Multiplets
+No.	Shift1 (ppm)	H's	Type	J (Hz)		Atom1	Multiplet1	 (ppm)
+1	6.18		1	dd	3.69, 2.53	3	M03		[6.15 .. 6.20]
+2	6.85		1	dd	-		2	M02		[6.83 .. 6.86]
+3	6.94		1	dd	-		4	M01		[6.92 .. 6.95]
+
+Table of Assignments
+No.	Atom	Exp. Shift (ppm)	Multiplet
+1	3	6.18			M03
+2	2	6.85			M02
+3	4	6.94			M01
+
+
+ 
+
+
+# HMDB04230 (Pyrrole-2-carboxylic acid) 2D HSQC Peaklist:
+     #       F2[ppm]           F1[ppm]     Intensity  
+     1       7.0827          125.6159     20343076.88
+     2       6.9894          117.8313     24248953.31
+     3       6.3208          111.8489     25444636.19
+
+ 
+
+

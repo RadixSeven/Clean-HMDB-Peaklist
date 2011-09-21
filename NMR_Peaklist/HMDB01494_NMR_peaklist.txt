@@ -1,0 +1,17 @@
+# HMDB01494 (Acetylphosphate) HNMR Peaklists:
+No. (ppm) (Hz) Height
+1 0.00 0.0 0.2151
+2 1.91 1148.5 1.0000
+3 2.10 1261.2 0.2591
+4 2.10 1262.0 0.2257
+ 
+
+
+# HMDB01494 (Acetylphosphate) 2D HSQC Peaklist:
+	#	F2[ppm]	F1[ppm]	Intensity
+	1	2.1032	24.6707	7521274.00
+	2	1.9139	25.9454	19830960.00
+
+ 
+
+

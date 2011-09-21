@@ -1,0 +1,39 @@
+# HMDB00043 (Betaine) HNMR Peaklists:
+Table of Peaks
+
+No. 	(ppm) 	(Hz) 	Height
+1 	3.89 	1943.8 	0.1878 	
+2 	3.25 	1625.3 	1.0000 	
+
+
+Table of Multiplets
+
+No. 	Shift1 (ppm) 	H's 	Type 	Atom1 	Multiplet1 	 (ppm)
+1 	3.89 	15 	s 	3 	M01 	[3.84 .. 3.93]
+2 	3.25 	83 	s 	7, 5, 8 	M02 	[3.19 .. 3.31]
+
+
+Table of Assignments
+
+No. 	Atom 	Exp. Shift (ppm) 	Multiplet
+1 	3 	3.89 	M01
+2 	5 	3.25 	M02
+3 	8 	3.25 	M02
+4 	7 	3.25 	M02
+
+
+
+
+# HMDB00043 (Betaine) CNMR Peaklist:
+
+
+
+# HMDB00043 (Betaine) 2D HSQC Peaklist:
+	#	F2[ppm]	F1[ppm]	Intensity	Annotation
+
+	1	3.8893	68.6416	5622988.00
+	2	3.2522	55.8569	30953998.00
+
+ 
+
+

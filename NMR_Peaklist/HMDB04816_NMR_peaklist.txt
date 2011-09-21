@@ -1,0 +1,18 @@
+# HMDB04816 (FAPy-adenine) HNMR Peaklists:
+No. (ppm) (Hz) Height
+1 7.92 4752.8 0.7406
+2 8.34 5005.0 1.0000
+ 
+
+
+# HMDB04816 (FAPy-adenine) 2D HSQC Peaklist:
+     #     F2[ppm]        F1[ppm]       Intensity       
+
+     1     8.3354          167.5737     9264548.00
+     2     7.9682          158.6606     4488426.00
+     3     7.8616          158.6606     4416216.00
+
+
+ 
+
+

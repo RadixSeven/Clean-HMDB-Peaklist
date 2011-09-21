@@ -1,0 +1,24 @@
+# HMDB00176 (Maleic acid) HNMR Peaklists:
+Table of Peaks
+No. 	(ppm) 	(Hz) 	Height
+1 	6.04 	3020.3 	1.0000
+
+Table of Multiplets
+No. 	Shift1 (ppm) 	H's 	Type 	Atom1 	Multiplet1 	(ppm)
+1 	6.04 	1 	s 	5a, 4a 	M00 	[6.03 .. 6.05]
+
+Table of Assignments
+No. 	Atom 	Exp. Shift (ppm) 	Multiplet
+1 	5a 	6.04 	M00
+2 	4a	6.04 	M00
+
+
+
+
+# HMDB00176 (Maleic acid) 2D HSQC Peaklist:
+	#	F2[ppm]	F1[ppm]	Intensity
+	1	6.0134	133.5079	32789722.00
+
+ 
+
+

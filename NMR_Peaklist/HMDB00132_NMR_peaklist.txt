@@ -1,0 +1,24 @@
+# HMDB00132 (Guanine) HNMR Peaklists:
+Table of Peaks
+No.	(ppm)	Height
+1	7.65	0.2261
+
+Table of Multiplets
+No.	Shift1 (ppm)	H's	Type	Atom1	Multiplet1	 (ppm)
+1	7.65		1	s	2	M01		[7.61 .. 7.67]
+
+Table of Assignments
+No.	Atom	Exp. Shift (ppm)	Multiplet
+1	2	7.65		M01
+
+
+ 
+
+
+# HMDB00132 (Guanine) 2D HSQC Peaklist:
+	#	F2[ppm]	F1[ppm]	Intensity
+	1	7.6481	149.0676	1279317.75
+
+ 
+
+

@@ -1,0 +1,25 @@
+# HMDB04110 (Phosphonoacetate) HNMR Peaklists:
+Table of Peaks
+No.	(ppm)	(Hz)	Height
+1	2.625	1575.71	0.8468
+2	2.659	1596.07	0.8455
+
+Table of Multiplets
+No.	Shift1 (ppm)	H's	Type	Atom1	Multiplet1	 (ppm)
+1	2.66		2	d	5	M01		[2.61 .. 2.68]
+
+Table of Assignments
+No.	Atom	Exp. Shift (ppm)	Multiplet
+1	5	2.66		M01
+ 
+
+
+# HMDB04110 (Phosphonoacetate) 2D HSQC Peaklist:
+     #     F2[ppm]           F1[ppm]       Intensity
+
+     1     2.6581           41.8608      8549917.00
+     2     2.6229           42.6492      7284747.00
+
+ 
+
+

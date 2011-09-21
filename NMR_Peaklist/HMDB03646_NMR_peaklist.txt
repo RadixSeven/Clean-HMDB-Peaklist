@@ -1,0 +1,29 @@
+# HMDB03646 (N-Methylhydantoin) HNMR Peaklists:
+Table of Peaks
+No.	(ppm)	Height
+1	2.92	1.0000
+2	4.08	0.4800
+
+Table of Multiplets
+No.	Shift1 (ppm)	H's	Type	Atom1	Multiplet1	 (ppm)
+1	2.92		3	s	7	M02		[2.83 .. 3.01]
+2	4.08		2	s	4	M01		[4.01 .. 4.15]
+
+Table of Assignments
+No.	Atom	Exp. Shift (ppm)		Multiplet
+1	7	2.92			M02
+2	4	4.08			M01
+
+
+ 
+
+
+# HMDB03646 (N-Methylhydantoin) 2D HSQC Peaklist:
+     #  F2[ppm]           F1[ppm]       Intensity      
+     1  4.0797           55.7725     29938935.88
+     2  4.0592           55.4441      7935986.25
+     3  2.9185           31.2017     42766051.50
+
+ 
+
+

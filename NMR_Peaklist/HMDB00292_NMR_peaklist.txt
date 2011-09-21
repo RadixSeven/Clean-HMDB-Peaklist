@@ -1,0 +1,23 @@
+# HMDB00292 (Xanthine) HNMR Peaklists:
+Table of Peaks
+No.	(ppm)	(Hz)	Height
+1	7.91	4746.0	0.0217
+
+Table of Multiplets
+No.	Shift1 (ppm)	H's	Type	Atom1	Multiplet1	 (ppm)
+1	7.91	1	s	2	M01	[7.87 .. 7.95]
+
+Table of Assignments
+No.	Atom	Exp. Shift (ppm)	Multiplet
+1	2	7.91	M01
+
+ 
+
+
+# HMDB00292 (Xanthine) 2D HSQC Peaklist:
+     #   F2[ppm]           F1[ppm]       Intensity       
+     1   7.9270          140.4396      2119807.61
+     
+ 
+
+
