@@ -1,5 +1,5 @@
 # HMDB02308 (Hydroxycobalamin) HNMR Peaklists:
-Table of Peaks:
+Table of Peaks
 No.	(ppm)	(Hz)	Height
 1	0.486	291.49	0.0162
 2	1.266	759.93	0.0685

@@ -1,5 +1,6 @@
 # HMDB00678 (Isovalerylglycine) HNMR Peaklists:
-Table of PeaksNo.	(ppm)	(Hz)	Height
+Table of Peaks
+No.	(ppm)	(Hz)	Height
 1	-0.000	-0.00	0.0676
 2	0.919	551.15	0.9831
 3	0.930	557.82	1.0000
@@ -30,7 +31,6 @@ No.	Shift1 (ppm)	H's	Type	J (Hz)	Atom1	Multiplet1	 (ppm)
 3	2.162	2	d	7.44	8	M02	[2.120 .. 2.205]
 4	3.747	2	d	5.84	4	M01	[3.701 .. 3.799]
 
- 
 
 
 # HMDB00678 (Isovalerylglycine) 2D HSQC Peaklist:

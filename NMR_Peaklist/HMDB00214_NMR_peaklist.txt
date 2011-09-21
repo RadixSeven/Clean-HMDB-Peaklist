@@ -1,5 +1,5 @@
 # HMDB00214 (Ornithine) HNMR Peaklists:
-List of Peaks
+Table of Peaks
 No.	(ppm)	(Hz)	Height
 1	1.702	850.9	0.0534
 2	1.717	858.3	0.0765
@@ -38,7 +38,7 @@ No.	(ppm)	(Hz)	Height
 35	3.777	1888.0	0.5530
 36	3.789	1894.0	0.2792
 
-List of Multiplets
+Table of Multiplets
 No.	Shift1 (ppm)	H's	Type	Atom1	Multiplet1	 (ppm)
 1	1.727	2	m	7	M05	[1.676 .. 1.778]
 2	1.826	2	m	7	M04	[1.775 .. 1.877]
@@ -46,7 +46,7 @@ No.	Shift1 (ppm)	H's	Type	Atom1	Multiplet1	 (ppm)
 4	3.046	3	t	8	M02	[3.008 .. 3.083]
 5	3.774	1	t	4	M01	[3.737 .. 3.811]
 
-List of Assignments
+Table of Assignments
 No.	Atom	Exp. Shift (ppm)	Multiplet
 1	7	1.727	M05
 2	7	1.826	M04

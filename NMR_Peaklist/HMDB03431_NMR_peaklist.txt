@@ -1,11 +1,5 @@
 # HMDB03431 (L-Histidinol) HNMR Peaklists:
-L-Histidinol
-HMDB03431 
-1DNMR spectrum:600M Hz in H2O 
-Sample: 50mM at PH 7.0
- Reference to DSS
-
-Table of Peaks 
+Table of Peaks
 No. 	(ppm) 	(Hz) 	Height
 1 	3.026 	1816.53 	0.0941
 2 	3.038 	1823.57 	0.1076
@@ -48,7 +42,12 @@ No. 	Atom 	Multiplet
 5 	5 	M05
 6 	2 	M06
 
- 
+Experiment Metadata
+L-Histidinol
+HMDB03431 
+1DNMR spectrum:600M Hz in H2O 
+Sample: 50mM at PH 7.0
+ Reference to DSS 
 
 
 # HMDB03431 (L-Histidinol) 2D HSQC Peaklist:

@@ -1,4 +1,5 @@
 # HMDB04815 (4-Hydroxy-3-methylbenzoic acid) HNMR Peaklists:
+Table of Peaks
 No. (ppm) (Hz) Height
 1 2.23 1336.2 1.0000
 2 6.90 4144.3 0.2448

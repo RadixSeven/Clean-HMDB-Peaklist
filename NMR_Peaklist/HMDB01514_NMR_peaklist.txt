@@ -1,11 +1,5 @@
 # HMDB01514 (Glucosamine) HNMR Peaklists:
-Glucosamine 
-1DNMR spectrum:600MHz in H2O
-Sample: 25mM at PH 7.0
-Reference to DSS
-
-
-Table of peaks
+Table of Peaks
 No. 	(ppm) 	(Hz) 	Height
 1 	2.900 	1740.82 	0.0569
 2 	2.913 	1748.75 	0.0557
@@ -56,6 +50,8 @@ No. 	(ppm) 	(Hz) 	Height
 47 	5.472 	3284.89 	0.2961
 48 	5.478 	3288.42 	0.3218
 
+
+Experiment Metadata
 Glucosamine 
 1DNMR spectrum:600MHz in H2O
 Sample: 25mM at PH 7.0

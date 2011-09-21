@@ -1,4 +1,5 @@
 # HMDB02107 (Phthalic acid) HNMR Peaklists:
+Table of Peaks
 No. (ppm) (Hz) Height
 1 7.40 4439.6 0.0271
 2 7.40 4440.6 0.0275
