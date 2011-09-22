@@ -22,7 +22,7 @@ No. 	Atom 	Multiplet
 3 	3 	M02
 4 	6 	M03
 
-Experiment Metadata
+Table of Experiment Metadata
 Homogentisic
 HMDB00130 
 1DNMR spectrum:600MHz in H2O

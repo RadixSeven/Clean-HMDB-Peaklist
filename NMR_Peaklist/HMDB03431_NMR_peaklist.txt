@@ -42,7 +42,7 @@ No. 	Atom 	Multiplet
 5 	5 	M05
 6 	2 	M06
 
-Experiment Metadata
+Table of Experiment Metadata
 L-Histidinol
 HMDB03431 
 1DNMR spectrum:600M Hz in H2O 

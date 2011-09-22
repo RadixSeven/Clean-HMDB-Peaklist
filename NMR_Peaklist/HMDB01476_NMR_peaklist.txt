@@ -5,7 +5,7 @@ No. 	(ppm) 	(Hz) 	Height
 2 	6.949 	4171.81 	0.3141
 3 	7.286 	4373.84 	0.2853
 
-Experiment Metadata
+Table of Experiment Metadata
 3-Hydroxyanthranilic 
 HMDB01476 
 DNMR spectrum:600MHz in H2O 

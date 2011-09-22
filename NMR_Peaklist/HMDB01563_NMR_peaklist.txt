@@ -24,7 +24,7 @@ No. 	(ppm) 	(Hz) 	Height
 21 	5.895 	3538.87 	0.1810
 22 	7.987 	4795.07 	0.3726
 
-Experiment Metadata
+Table of Experiment Metadata
 1-Methylguanosine
  HMDB 01563 
 1DNMR spectrum:600MHz in H2O 

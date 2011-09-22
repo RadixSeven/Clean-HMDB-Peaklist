@@ -30,7 +30,7 @@ No. 	H's 	Type 	J (Hz) 	    Atom1 	Multiplet1 	 (ppm)
 6 	1 	t 	6.82                  2 	M06 	[6.29 .. 6.36]
 7 	1 	d 	8.36 	                11 	M07 	[8.01 .. 8.07]
 
-Experiment Metadata
+Table of Experiment Metadata
 dUMP 
 HMDB01409 
 1DNMR spectrum:600MHz in H2O 

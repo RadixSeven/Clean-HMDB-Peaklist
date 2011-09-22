@@ -31,7 +31,7 @@ No. 	Atom 	Multiplet
 4 	4 	M02
 5 	3 	M01
 
-Experiment Metadata
+Table of Experiment Metadata
 Phosphorylcholine 
 HMDB01565 
 1DNMR spectrum:600MHz in H2O 

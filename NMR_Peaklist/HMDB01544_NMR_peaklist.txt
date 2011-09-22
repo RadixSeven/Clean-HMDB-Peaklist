@@ -20,7 +20,7 @@ No. 	Atom 	Multiplet
 3 	4 	M03
 4 	6 	M04
 
-Experiment Metadata
+Table of Experiment Metadata
 m-Chlorobenzoic acid 
 HMDB01544 
 1DNMR spectrum:600MHz in H2O

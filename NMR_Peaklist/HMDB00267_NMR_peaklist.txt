@@ -37,7 +37,7 @@ No. (ppm) (Hz) Height
 34 4.186 2512.86 0.1862
 35 7.747 4650.76 0.0058
  
-Experiment Metadata
+Table of Experiment Metadata
 Pyroglutamic acid (HMDB00267)
 1H NMR spectrum: 600 MHz in H2O
 Sample: 25 mM at pH 7.0, 298 K

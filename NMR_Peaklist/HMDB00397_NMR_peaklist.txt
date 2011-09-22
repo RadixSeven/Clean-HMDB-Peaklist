@@ -22,7 +22,7 @@ No. 	Atom 	Multiplet
 2 	6 	M02
 3 	4 	M03
 
-Experiment Metadata
+Table of Experiment Metadata
 2-Pyrocatechuic acid 
 HMDB00397 
 1DNMR spectrum:600MHz in H2O

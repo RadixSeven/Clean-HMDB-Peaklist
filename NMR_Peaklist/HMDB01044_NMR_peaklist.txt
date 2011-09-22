@@ -53,7 +53,7 @@ No. 	Atom 	Multiplet
 6 	2 	M02
 7 	7 	M01
 
-Experiment Metadata
+Table of Experiment Metadata
 2'Deoxyguansine 5'-Monophosphate
 HMDB01044
 1DNMR spectrum:600MHz in H2O 
