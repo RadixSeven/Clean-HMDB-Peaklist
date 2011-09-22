@@ -1,6 +1,5 @@
 # HMDB00866 (N-Acetyl-L-tyrosine) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	7.73 	4631.8 	0.0559 	
 2 	7.71 	4623.9 	0.0562 	
@@ -27,7 +26,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	7.72 	7 	d 	7.91 	10 	M01 	[7.66 .. 7.79]
 2 	7.15 	19 	d 	8.46 	5, 3 	M02 	[7.09 .. 7.21]
@@ -39,7 +37,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	10 	7.72 	M01
 2 	3 	7.15 	M02

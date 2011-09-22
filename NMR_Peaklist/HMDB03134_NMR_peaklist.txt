@@ -1,6 +1,5 @@
 # HMDB03134 (Biocytin) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	4.62 	2310.4 	0.1291 	
 2 	4.61 	2305.3 	0.1545 	

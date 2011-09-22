@@ -1,6 +1,5 @@
 # HMDB01843 (N-Acryloylglycine) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	6.35 	3172.4 	0.1905 	
 2 	6.33 	3162.1 	0.1981 	
@@ -20,7 +19,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	6.32 	11 	m 	- 	8 	M01 	[6.27 .. 6.36]
 2 	6.22 	11 	m 	- 	9a 	M02 	[6.18 .. 6.25]
@@ -29,7 +27,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	8 	6.32 	M01
 2 	9a 	6.22 	M02

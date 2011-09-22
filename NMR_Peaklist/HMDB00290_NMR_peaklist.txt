@@ -1,5 +1,5 @@
 # HMDB00290 (Uridine diphosphate-N-acetylglucosamine) HNMR Peaklists:
-List of Peaks
+Table of Peaks
 No.	(ppm)	(Hz)	Height
 1	2.070	1034.4	1.0000
 2	3.527	1762.8	0.0732
@@ -67,7 +67,7 @@ No.	(ppm)	(Hz)	Height
 64	8.334	4165.7	0.0636
 65	8.353	4175.0	0.0609
 
-List of Multiplets
+Table of Multiplets
 No.	Shift1 (ppm)	H's	Type	J (Hz)	Atom1	Multiplet1	 (ppm)
 1	2.070	1	s	-	21	M03	[2.045 .. 2.089]
 2	3.555	1	dd	-	5	M02	[3.521 .. 3.571]
@@ -85,7 +85,7 @@ No.	Shift1 (ppm)	H's	Type	J (Hz)	Atom1	Multiplet1	 (ppm)
 14	7.942	2	d	8.05	35	M13	[7.908 .. 7.960]
 15	8.341	1	d	-	10	M08	[8.315 .. 8.367]
 
-List of Assignments
+Table of Assignments
 No.	Atom	Exp. Shift (ppm)	Multiplet
 1	21	2.070	M03
 2	5	3.555	M02
@@ -107,7 +107,7 @@ No.	Atom	Exp. Shift (ppm)	Multiplet
 
 
 
-
+Table of Experiment Metadata
 Uridine diphosphate-N-acetylglucosamine
  HMDB00290
 1DNMR spectrum:600MHz in H2O 

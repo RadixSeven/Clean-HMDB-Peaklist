@@ -1,6 +1,5 @@
 # HMDB00446 (N-Alpha-ccetyllysine) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	7.92 	3961.0 	0.0624 	
 2 	7.91 	3954.0 	0.0664 	
@@ -42,7 +41,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	7.92 	5 	d 	7.05 	5 	M01 	[7.85 .. 8.00]
 2 	4.14 	5 	m 	- 	4 	M02 	[4.06 .. 4.20]
@@ -54,7 +52,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	5 	7.92 	M01
 2 	4 	4.14 	M02

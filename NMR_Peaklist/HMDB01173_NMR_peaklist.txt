@@ -1,6 +1,5 @@
 # HMDB01173 (5'-Methylthioadenosine) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	8.51 	4256.0 	0.3450 	
 2 	8.42 	4209.5 	0.1963 	
@@ -33,7 +32,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	8.51 	13 	s 	- 	7 	M01 	[8.49 .. 8.55]
 2 	8.42 	8 	s 	- 	12 	M02 	[8.39 .. 8.44]
@@ -45,7 +43,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	7 	8.51 	M01
 2 	12 	8.42 	M02

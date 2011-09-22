@@ -1,6 +1,5 @@
 # HMDB00736 (Isobutyryl-L-carnitine) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	5.63 	2816.3 	0.0068 	
 2 	5.62 	2808.7 	0.0151 	
@@ -33,7 +32,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	5.61 	3 	m 	- 	4 	M01 	[5.56 .. 5.66]
 2 	3.88 	3 	dd 	14.53, 8.67 	5 	M02 	[3.82 .. 3.92]
@@ -47,7 +45,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	4 	5.61 	M01
 2 	5 	3.88 	M02

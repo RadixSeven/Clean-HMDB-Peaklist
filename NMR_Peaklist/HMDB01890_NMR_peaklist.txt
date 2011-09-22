@@ -1,4 +1,5 @@
 # HMDB01890 (Acetylcysteine) HNMR Peaklists:
+Table of Experiment Metadata
 Acetylcystein
 1DNMR spectrum:600MHz in H2O
 Sample: 25mM at PH 7.0 
@@ -28,7 +29,6 @@ No. 	Atom 	Multiplet
 3 	3 	M01
 
 Table of Multiplets
-
 No. 	H's 	Type 	Atom1 	Multiplet1 	 (ppm)
 1 	3 	s 	9 	M03 	[2.05 .. 2.08]
 2 	2 	m 	2 	M02 	[2.86 .. 2.99]

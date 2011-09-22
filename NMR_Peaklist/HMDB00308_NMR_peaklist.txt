@@ -1,6 +1,5 @@
 # HMDB00308 (3b-Hydroxy-5-cholenoic acid) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	5.29 	2643.1 	0.0140 	
 2 	5.28 	2641.0 	0.0117 	
@@ -150,7 +149,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	5.28 	1 	dd 	3.04, 2.22 	11 	M01 	[5.24 .. 5.32]
 2 	3.46 	2 	m 	- 	8 	M02 	[3.40 .. 3.52]
@@ -169,7 +167,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	11 	5.28 	M01
 2 	8 	3.46 	M02

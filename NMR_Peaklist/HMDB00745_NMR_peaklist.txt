@@ -1,6 +1,5 @@
 # HMDB00745 (Homocarnosine) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	7.06 	4229.5 	0.2420 	
 2 	4.50 	2696.7 	0.0321 	

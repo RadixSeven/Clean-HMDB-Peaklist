@@ -1,6 +1,5 @@
 # HMDB00892 (Valeric acid) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	2.21 	1322.6 	0.0851 	
 2 	2.19 	1315.2 	0.1574 	
@@ -23,7 +22,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	2.19 	15 	t 	7.47 	4 	M01 	[2.16 .. 2.22]
 2 	1.53 	14 	m 	- 	5 	M02 	[1.49 .. 1.58]
@@ -32,7 +30,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	4 	2.19 	M01
 2 	5 	1.53 	M02

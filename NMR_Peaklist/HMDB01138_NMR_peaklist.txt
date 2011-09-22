@@ -1,6 +1,5 @@
 # HMDB01138 (N-Acetylglutamic acid) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	4.12 	2059.6 	0.0170 	
 2 	4.11 	2055.1 	0.0205 	

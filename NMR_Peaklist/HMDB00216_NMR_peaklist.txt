@@ -1,6 +1,5 @@
 # HMDB00216 (Norepinephrine) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	6.95 	3473.4 	0.9026 	
 2 	6.95 	3471.3 	1.0000 	
@@ -21,7 +20,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	Atom1 	Multiplet1 	 (ppm)
 1 	6.94 	36 	m 	3, 4 	M01 	[6.91 .. 6.97]
 2 	6.85 	17 	m 	6 	M02 	[6.82 .. 6.88]
@@ -30,7 +28,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	4 	6.94 	M01
 2 	3 	6.94 	M01

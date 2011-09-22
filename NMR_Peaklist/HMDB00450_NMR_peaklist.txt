@@ -1,6 +1,5 @@
 # HMDB00450 (5-Hydroxylysine) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	3.90 	2340.8 	0.2376 	
 2 	3.90 	2337.6 	0.3865 	
@@ -90,7 +89,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	Atom1 	Multiplet1 	 (ppm)
 1 	3.88 	13 	m 	2 	M01 	[3.84 .. 3.94]
 2 	3.77 	13 	m 	7 	M02 	[3.73 .. 3.81]
@@ -103,7 +101,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	5 	1.55 	M08
 2 	5 	1.69 	M07

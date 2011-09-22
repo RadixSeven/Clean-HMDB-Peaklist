@@ -1,6 +1,5 @@
 # HMDB00044 (Ascorbic acid) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	4.51 	2253.6 	0.1750 	
 2 	4.50 	2251.6 	0.1714 	
@@ -21,7 +20,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	4.51 	5 	d 	1.97 	5 	M01 	[4.48 .. 4.53]
 2 	4.01 	27 	ddd 	7.43, 5.73, 1.85 	9 	M02 	[3.97 .. 4.04]
@@ -29,7 +27,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	5 	4.51 	M01
 2 	9 	4.01 	M02

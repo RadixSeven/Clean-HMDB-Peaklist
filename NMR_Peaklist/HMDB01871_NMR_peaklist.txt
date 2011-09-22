@@ -1,6 +1,5 @@
 # HMDB01871 (Epicatechin) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	7.04 	3517.5 	0.7466 	
 2 	7.03 	3516.2 	0.7849 	
@@ -29,7 +28,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	7.04 	2 	d 	1.24 	12 	M01 	[7.02 .. 7.05]
 2 	6.93 	3 	m 	- 	15, 16 	M02 	[6.89 .. 6.98]
@@ -42,7 +40,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	12 	7.04 	M01
 2 	16 	6.93 	M02

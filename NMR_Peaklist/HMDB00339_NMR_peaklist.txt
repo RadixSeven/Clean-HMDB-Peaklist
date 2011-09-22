@@ -1,6 +1,5 @@
 # HMDB00339 (2-Methylbutyrylglycine) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	4.11 	2053.7 	0.5669 	
 2 	4.10 	2048.7 	0.6045 	
@@ -36,7 +35,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	4.10 	14 	d 	5.08 	4 	M01 	[4.01 .. 4.16]
 2 	2.24 	8 	m 	- 	8 	M02 	[2.19 .. 2.30]
@@ -47,7 +45,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	4 	4.10 	M01
 2 	8 	2.24 	M02

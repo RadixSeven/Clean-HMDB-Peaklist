@@ -1,6 +1,5 @@
 # HMDB00574 (L-Cysteine) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	3.98 	1989.6 	0.6750 	
 2 	3.97 	1985.4 	0.8272 	
@@ -17,14 +16,12 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	Atom1 	Multiplet1 	 (ppm)
 1 	3.97 	26 	dd 	3 	M01 	[3.94 .. 4.00]
 2 	3.06 	56 	m 	2 	M02 	[2.99 .. 3.13]
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	3 	3.97 	M01
 2 	2 	3.06 	M02

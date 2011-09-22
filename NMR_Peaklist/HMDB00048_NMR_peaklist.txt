@@ -1,6 +1,5 @@
 # HMDB00048 (Melibiose) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	5.24 	2619.4 	0.0646 	
 2 	5.23 	2615.6 	0.0611 	
@@ -56,7 +55,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	5.24 	1 	d 	3.75 	2 	M01 	[5.22 .. 5.26]
 2 	3.98 	20 	m 	- 	31, 11, 29, 15, 28, 16 	M02 	[3.92 .. 4.03]
@@ -69,7 +67,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	2 	5.24 	M01
 2 	16 	3.98 	M02

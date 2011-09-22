@@ -1,6 +1,5 @@
 # HMDB00881 (Xanthurenic acid) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	7.38 	3687.9 	0.3186 	
 2 	7.38 	3687.0 	0.3051 	
@@ -18,7 +17,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	7.37 	24 	dd 	8.29, 0.92 	6 	M01 	[7.33 .. 7.41]
 2 	7.16 	23 	t 	8.01 	7 	M02 	[7.13 .. 7.20]
@@ -27,7 +25,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	6 	7.37 	M01
 2 	7 	7.16 	M02

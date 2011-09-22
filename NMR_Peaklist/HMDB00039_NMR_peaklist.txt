@@ -1,6 +1,5 @@
 # HMDB00039 (Butyric acid) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	2.16 	1079.5 	0.3168 	
 2 	2.14 	1072.1 	0.6406 	
@@ -17,7 +16,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	2.14 	28 	t 	7.33 	4 	M01 	[2.09 .. 2.21]
 2 	1.55 	27 	tq 	7.38 	5 	M02 	[1.49 .. 1.60]
@@ -25,7 +23,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	4 	2.14 	M01
 2 	5 	1.55 	M02

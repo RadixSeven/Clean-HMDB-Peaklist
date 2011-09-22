@@ -1,6 +1,5 @@
 # HMDB00299 (Xanthosine) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	7.87 	3932.3 	1.0000 	
 2 	5.85 	2926.0 	0.4268 	
@@ -27,7 +26,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	7.87 	17 	s 	- 	7 	M01 	[7.85 .. 7.89]
 2 	5.85 	16 	d 	6.45 	2 	M02 	[5.80 .. 5.88]
@@ -39,7 +37,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	7 	7.87 	M01
 2 	2 	5.85 	M02

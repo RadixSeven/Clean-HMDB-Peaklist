@@ -1,6 +1,5 @@
 # HMDB00244 (Riboflavin) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	7.39 	3696.0 	0.3701 	
 2 	7.36 	3679.5 	0.4600 	
@@ -38,7 +37,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	7.39 	2 	s 	- 	11 	M01 	[7.38 .. 7.42]
 2 	7.36 	2 	s 	- 	14 	M02 	[7.34 .. 7.38]
@@ -53,7 +51,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	11 	7.39 	M01
 2 	14 	7.36 	M02

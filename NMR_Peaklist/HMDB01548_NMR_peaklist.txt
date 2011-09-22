@@ -1,6 +1,5 @@
 # HMDB01548 (D-Ribose 5-phosphate) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	5.41 	2702.0 	0.0219 	
 2 	5.40 	2699.3 	0.0298 	
@@ -45,7 +44,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	5.39 	2 	m 	- 	16 	M01 	[5.35 .. 5.42]
 2 	5.22 	4 	m 	- 	2 	M02 	[5.18 .. 5.26]
@@ -57,7 +55,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	16 	5.39 	M01
 2 	2 	5.22 	M02

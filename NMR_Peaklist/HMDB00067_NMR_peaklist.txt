@@ -1,6 +1,5 @@
 # HMDB00067 (Cholesterol) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	5.35 	2676.4 	0.0112 	
 2 	5.35 	2674.2 	0.0092 	
@@ -121,7 +120,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	5.35 	1 	dd 	3.11, 2.33 	11 	M01 	[5.32 .. 5.39]
 2 	3.52 	2 	m 	- 	16 	M02 	[3.44 .. 3.59]
@@ -140,7 +138,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	11 	5.35 	M01
 2 	16 	3.52 	M02

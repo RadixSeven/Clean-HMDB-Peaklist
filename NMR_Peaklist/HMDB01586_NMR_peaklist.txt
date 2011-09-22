@@ -1,6 +1,5 @@
 # HMDB01586 (Glucose 1-phosphate) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	5.46 	2727.0 	0.5735 	
 2 	5.45 	2723.6 	0.6313 	
@@ -39,7 +38,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	5.45 	15 	dd 	7.37, 3.43 	2 	M01 	[5.42 .. 5.47]
 2 	3.91 	13 	m 	- 	3 	M02 	[3.88 .. 3.94]
@@ -50,7 +48,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	2 	5.45 	M01
 2 	3 	3.91 	M02

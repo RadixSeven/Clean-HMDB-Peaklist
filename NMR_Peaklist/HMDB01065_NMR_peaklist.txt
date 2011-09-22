@@ -1,6 +1,4 @@
 # HMDB01065 (Phenylethanolamine) HNMR Peaklists:
-
-
 Table of Multiplets
 No. 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	1 	dd 	13.20 	9 	M04 	[3.19 .. 3.26]

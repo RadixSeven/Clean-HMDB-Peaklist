@@ -1,6 +1,5 @@
 # HMDB00071 (Deoxyinosine) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	8.32 	4990.1 	0.6386 	
 2 	8.22 	4927.9 	0.7065 	
@@ -41,7 +40,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	8.32 	1 	s 	- 	7 	M01 	[8.30 .. 8.35]
 2 	8.22 	2 	s 	- 	12 	M02 	[8.19 .. 8.25]
@@ -55,7 +53,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	7 	8.32 	M01
 2 	12 	8.22 	M02

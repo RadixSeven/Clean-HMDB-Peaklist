@@ -1,6 +1,5 @@
 # HMDB00564 (PC(16:0/16:0)) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	5.36 	2680.9 	0.0042 	
 2 	5.35 	2672.2 	0.0131 	
@@ -41,7 +40,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	5.34 	1 	m 	- 	8 	M01 	[5.30 .. 5.38]
 2 	4.53 	1 	dd 	11.99, 2.84 	17 	M02 	[4.51 .. 4.56]
@@ -57,7 +55,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	8 	5.34 	M01
 2 	17 	4.53 	M02

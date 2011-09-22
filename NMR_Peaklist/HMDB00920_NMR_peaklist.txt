@@ -1,8 +1,5 @@
 # HMDB00920 (11a-Hydroxyprogesterone) HNMR Peaklists:
-
-
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	5.04 	2516.7 	0.0852 	
 2 	3.37 	1684.0 	0.0137 	
@@ -120,7 +117,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	5.04 	1 	s 	- 	13 	M01 	[4.97 .. 5.08]
 2 	3.34 	1 	m 	- 	5 	M02 	[3.15 .. 3.52]
@@ -140,7 +136,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	18 	0.41 	M15
 2 	4 	0.41 	M15

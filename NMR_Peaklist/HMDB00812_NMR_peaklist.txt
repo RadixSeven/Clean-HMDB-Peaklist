@@ -1,6 +1,5 @@
 # HMDB00812 (N-Acetyl-L-aspartic acid) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	7.93 	4753.8 	0.0130 	
 2 	7.92 	4747.0 	0.0127 	
@@ -24,7 +23,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	7.93 	7 	d 	6.76 	5 	M01 	[7.85 .. 7.98]
 2 	4.40 	6 	ddd 	9.97, 7.66, 3.79 	4 	M02 	[4.35 .. 4.47]
@@ -34,7 +32,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	5 	7.93 	M01
 2 	4 	4.40 	M02

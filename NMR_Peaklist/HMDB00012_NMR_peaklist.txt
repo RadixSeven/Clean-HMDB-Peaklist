@@ -1,6 +1,5 @@
 # HMDB00012 (Deoxyuridine) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	7.86 	4709.4 	0.2461 	
 2 	7.84 	4701.2 	0.2507 	
@@ -43,7 +42,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	7.85 	10 	d 	8.13 	11 	M01 	[7.82 .. 7.88]
 2 	6.29 	9 	t 	6.70 	2 	M02 	[6.26 .. 6.32]
@@ -56,7 +54,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	11 	7.85 	M01
 2 	2 	6.29 	M02

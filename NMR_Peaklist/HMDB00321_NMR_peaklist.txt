@@ -1,6 +1,5 @@
 # HMDB00321 (2-Hydroxyadipic acid) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	4.13 	2065.2 	0.4531 	
 2 	4.12 	2061.0 	0.4438 	
@@ -34,7 +33,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	Atom1 	Multiplet1 	 (ppm)
 1 	4.12 	14 	m 	2 	M01 	[4.10 .. 4.15]
 2 	2.38 	26 	m 	4 	M02 	[2.33 .. 2.45]
@@ -43,7 +41,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	2 	4.12 	M01
 2 	4 	2.38 	M02

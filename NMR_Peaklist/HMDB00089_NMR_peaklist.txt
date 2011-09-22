@@ -1,6 +1,5 @@
 # HMDB00089 (Cytidine) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	7.84 	3917.0 	0.9704 	
 2 	7.82 	3909.4 	1.0000 	
@@ -30,7 +29,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	7.83 	14 	d 	7.60 	11 	M01 	[7.80 .. 7.85]
 2 	6.05 	13 	d 	7.55 	10 	M02 	[6.02 .. 6.07]
@@ -43,7 +41,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	11 	7.83 	M01
 2 	10 	6.05 	M02

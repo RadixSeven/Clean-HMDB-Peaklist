@@ -1,6 +1,5 @@
 # HMDB00055 (Cellobiose) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	5.24 	3141.1 	0.1601 	
 2 	5.23 	3137.4 	0.1565 	
@@ -73,7 +72,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	5.24 	3 	d 	3.68 	2 	M01 	[5.20 .. 5.28]
 2 	4.67 	2 	d 	7.91 	34 	M02 	[4.64 .. 4.71]
@@ -89,7 +87,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	2 	5.24 	M01
 2 	34 	4.67 	M02

@@ -1,6 +1,5 @@
 # HMDB00975 (Trehalose) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	5.18 	2591.5 	0.7004 	
 2 	5.18 	2587.7 	0.6936 	
@@ -27,7 +26,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	5.18 	13 	d 	3.80 	8, 2 	M01 	[5.13 .. 5.22]
 2 	3.82 	42 	m 	- 	6, 4, 17, 10, 12, 19 	M02 	[3.79 .. 3.88]
@@ -37,7 +35,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	2 	5.18 	M01
 2 	8 	5.18 	M01

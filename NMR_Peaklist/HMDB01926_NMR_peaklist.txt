@@ -1,6 +1,5 @@
 # HMDB01926 (17a-Ethynylestradiol) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	7.17 	3584.6 	0.2609 	
 2 	7.16 	3576.3 	0.2672 	
@@ -59,7 +58,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	7.16 	6 	d 	8.33 	14 	M01 	[7.12 .. 7.22]
 2 	6.63 	6 	d 	8.01 	15 	M02 	[6.59 .. 6.71]
@@ -77,7 +75,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	14 	7.16 	M01
 2 	15 	6.63 	M02

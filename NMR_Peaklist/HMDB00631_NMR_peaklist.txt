@@ -1,6 +1,5 @@
 # HMDB00631 (Deoxycholic acid glycine conjugate) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	7.82 	3908.5 	0.0602 	
 2 	7.81 	3902.9 	0.1201 	
@@ -95,7 +94,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	7.81 	2 	t 	5.65 	28 	M01 	[7.75 .. 7.86]
 2 	4.01 	1 	m 	- 	6 	M02 	[3.95 .. 4.07]
@@ -115,7 +113,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	28 	7.81 	M01
 2 	6 	4.01 	M02

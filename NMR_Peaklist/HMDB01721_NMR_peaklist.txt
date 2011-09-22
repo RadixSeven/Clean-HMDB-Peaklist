@@ -1,6 +1,5 @@
 # HMDB01721 (DL-O-Phosphoserine) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	4.23 	2115.3 	0.1590 	
 2 	4.23 	2112.0 	0.1811 	
@@ -22,7 +21,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	4.21 	22 	m 	- 	4 	M01 	[4.18 .. 4.25]
 2 	4.12 	22 	m 	- 	4 	M02 	[4.08 .. 4.15]
@@ -30,7 +28,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	4 	4.21 	M01
 2 	4 	4.12 	M02

@@ -1,6 +1,5 @@
 # HMDB00222 (L-Palmitoylcarnitine) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	5.60 	2797.6 	0.0161 	
 2 	5.58 	2790.3 	0.0423 	
@@ -31,7 +30,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	5.58 	3 	dt 	7.34 	4 	M01 	[5.54 .. 5.61]
 2 	3.83 	2 	m 	- 	5 	M02 	[3.80 .. 3.87]
@@ -44,7 +42,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	4 	5.58 	M01
 2 	5 	3.83 	M02

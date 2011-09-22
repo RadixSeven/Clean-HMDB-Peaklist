@@ -1,6 +1,5 @@
 # HMDB01520 (Flavin Mononucleotide) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	0.00 	0.0 	0.2701 	
 2 	2.39 	1433.5 	0.1545 	
@@ -52,7 +51,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
  No. 	Shift1 (ppm) 	H's 	Type 	Atom1 	Multiplet1 	 (ppm)
 1 	2.39 	12 	s 	20 	M08 	[2.36 .. 2.41]
 2 	2.52 	9 	s 	21 	M07 	[2.50 .. 2.53]
@@ -65,7 +63,6 @@ Table of Multiplets
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	20 	2.39 	M08
 2 	21 	2.52 	M07

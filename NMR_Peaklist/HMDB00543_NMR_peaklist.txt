@@ -1,6 +1,5 @@
 # HMDB00543 (Benzenebutanoic acid) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	7.31 	3651.7 	0.2844 	
 2 	7.29 	3644.2 	0.7285 	
@@ -22,7 +21,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	7.29 	2 	t 	7.41 	5, 3 	M01 	[7.27 .. 7.31]
 2 	7.20 	3 	m 	- 	4, 6, 2 	M02 	[7.16 .. 7.23]
@@ -32,7 +30,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	3 	7.29 	M01
 2 	5 	7.29 	M01

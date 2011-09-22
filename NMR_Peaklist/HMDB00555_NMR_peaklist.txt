@@ -1,6 +1,5 @@
 # HMDB00555 (3-Methyladipic acid) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	2.43 	1212.6 	0.0929 	
 2 	2.41 	1206.0 	0.1047 	
@@ -41,7 +40,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	2.38 	1 	m 	- 	7, 4 	M01 	[2.29 .. 2.45]
 2 	2.15 	1 	dd 	14.57, 8.30 	4 	M02 	[2.09 .. 2.21]
@@ -52,7 +50,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	4 	2.38 	M01
 2 	7 	2.38 	M01

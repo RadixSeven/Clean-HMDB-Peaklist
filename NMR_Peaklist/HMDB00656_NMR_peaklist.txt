@@ -1,6 +1,5 @@
 # HMDB00656 (Cysteineglutathione disulfide) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	2.13 	1065.4 	0.2365 	
 2 	2.15 	1073.0 	0.6175 	
@@ -44,7 +43,6 @@ No. 	(ppm) 	(Hz) 	Height
 	
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	2.15 	15 	q 	- 	14 	M08 	[2.10 .. 2.21]
 2 	2.54 	15 	m 	- 	13 	M07 	[2.37 .. 2.70]
@@ -57,7 +55,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignements
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	14 	2.15 	M08
 2 	13 	2.54 	M07

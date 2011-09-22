@@ -1,6 +1,5 @@
 # HMDB01943 (Pseudoephedrine) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	7.47 	3735.8 	0.0628 	
 2 	7.47 	3734.1 	0.0461 	
@@ -24,7 +23,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	7.44 	46 	m 	- 	4, 5, 6, 3, 2 	M01 	[7.35 .. 7.50]
 2 	4.57 	5 	d 	8.74 	7 	M02 	[4.53 .. 4.61]
@@ -34,7 +32,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	2 	7.44 	M01
 2 	3 	7.44 	M01

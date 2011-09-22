@@ -1,6 +1,5 @@
 # HMDB01348 ( SM(d18:1/18:0)) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	5.67 	2832.6 	0.0039 	
 2 	5.65 	2826.2 	0.0076 	
@@ -57,7 +56,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	5.64 	1 	m 	- 	37 	M01 	[5.56 .. 5.71]
 2 	5.43 	1 	dd 	15.01, 6.54 	36 	M02 	[5.37 .. 5.49]
@@ -77,7 +75,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	37 	5.64 	M01
 2 	36 	5.43 	M02

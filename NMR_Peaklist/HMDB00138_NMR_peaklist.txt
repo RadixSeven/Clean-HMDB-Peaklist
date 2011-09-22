@@ -1,6 +1,5 @@
 # HMDB00138 (Glycocholic acid) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	4.04 	2424.1 	0.1313 	
 2 	3.88 	2329.0 	0.1522 	
@@ -93,7 +92,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	4.04 	2 	m 	- 	12 	M01 	[4.01 .. 4.09]
 2 	3.88 	2 	m 	- 	11 	M02 	[3.85 .. 3.93]
@@ -113,7 +111,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	12 	4.04 	M01
 2 	11 	3.88 	M02

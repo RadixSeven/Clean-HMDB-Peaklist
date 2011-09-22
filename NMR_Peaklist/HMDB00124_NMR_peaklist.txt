@@ -1,6 +1,5 @@
 # HMDB00124 (Fructose 6-phosphate) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	4.25 	2122.0 	0.0806 	
 2 	4.23 	2114.2 	0.1540 	
@@ -42,7 +41,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	4.23 	7 	t 	7.71 	20 	M01 	[4.19 .. 4.28]
 2 	4.11 	9 	m 	- 	4, 19 	M02 	[4.07 .. 4.16]
@@ -52,7 +50,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	20 	4.23 	M01
 2 	19 	4.11 	M02

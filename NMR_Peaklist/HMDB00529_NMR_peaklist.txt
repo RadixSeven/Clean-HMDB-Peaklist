@@ -1,6 +1,5 @@
 # HMDB00529 (5-Dodecenoic acid) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	5.54 	3318.4 	0.0045 	
 2 	5.52 	3311.2 	0.0086 	
@@ -47,7 +46,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	5.52 	4 	m 	- 	8 	M01 	[5.49 .. 5.57]
 2 	5.46 	3 	m 	- 	7 	M02 	[5.43 .. 5.49]
@@ -59,7 +57,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	5.52 	4 	m 	- 	8 	M01 	[5.49 .. 5.57]
 2 	5.46 	3 	m 	- 	7 	M02 	[5.43 .. 5.49]

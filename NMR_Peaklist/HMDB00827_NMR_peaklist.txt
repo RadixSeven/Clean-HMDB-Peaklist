@@ -1,6 +1,5 @@
 # HMDB00827 (Stearic acid) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	2.50 	1248.1 	0.0550 	
 2 	2.48 	1240.7 	0.1030 	
@@ -20,7 +19,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	2.48 	7 	t 	7.53 	4 	M01 	[2.43 .. 2.53]
 2 	1.77 	6 	tt 	7.50, 7.35 	5 	M02 	[1.70 .. 1.83]
@@ -29,7 +27,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	4 	2.48 	M01
 2 	5 	1.77 	M02

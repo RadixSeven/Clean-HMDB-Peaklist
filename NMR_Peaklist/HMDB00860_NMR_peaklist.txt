@@ -1,6 +1,5 @@
 # HMDB00860 (Phenylpropionylglycine) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	7.30 	3649.6 	0.2100 	
 2 	7.29 	3641.7 	0.5206 	
@@ -20,7 +19,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	7.28 	25 	m 	- 	3, 5 	M01 	[7.24 .. 7.32]
 2 	7.20 	24 	m 	- 	4, 2, 6 	M02 	[7.17 .. 7.23]
@@ -30,7 +28,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	5 	7.28 	M01
 2 	3 	7.28 	M01

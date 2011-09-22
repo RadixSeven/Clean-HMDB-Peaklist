@@ -1,6 +1,5 @@
 # HMDB00168 (L-Asparagine) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	4.01 	2002.8 	0.8247 	
 2 	4.00 	1998.6 	0.8984 	
@@ -17,7 +16,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	4.00 	5 	dd 	7.69, 4.26 	4 	M01 	[3.95 .. 4.05]
 2 	2.94 	5 	m 	- 	6 	M02 	[2.90 .. 3.00]
@@ -25,7 +23,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	4 	4.00 	M01
 2 	6 	2.94 	M02

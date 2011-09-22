@@ -1,6 +1,5 @@
 # HMDB01470 (Tiglic acid) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	6.84 	3419.1 	0.0094 	
 2 	6.84 	3416.8 	0.0149 	
@@ -28,7 +27,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	Atom1 	Multiplet1 	 (ppm)
 1 	6.82 	1 	m 	5a 	M01 	[6.72 .. 6.93]
 2 	1.79 	2 	m 	7 	M02 	[1.78 .. 1.80]
@@ -36,7 +34,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	5a 	6.82 	M01
 2 	7 	1.79 	M02

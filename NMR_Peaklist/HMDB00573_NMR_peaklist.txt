@@ -1,6 +1,5 @@
 # HMDB00573 (Elaidic acid) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	5.39 	2693.7 	0.1264 	
 2 	5.38 	2688.9 	0.2808 	
@@ -28,7 +27,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	5.38 	7 	m 	- 	12, 11 	M01 	[5.35 .. 5.44]
 2 	2.34 	6 	t 	7.53 	4 	M02 	[2.29 .. 2.40]
@@ -39,7 +37,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	11 	5.38 	M01
 2 	12 	5.38 	M01

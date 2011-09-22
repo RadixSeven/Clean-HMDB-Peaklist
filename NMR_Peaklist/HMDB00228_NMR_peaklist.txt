@@ -1,6 +1,4 @@
 # HMDB00228 (Phenol) HNMR Peaklists:
-
-
 Table of Multiplets
 No. 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	2 	d 	7.48 	6, 2 	M03 	[6.89 .. 6.96]

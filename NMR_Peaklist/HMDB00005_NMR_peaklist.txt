@@ -1,6 +1,5 @@
 # HMDB00005 (2-Ketobutyric acid) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	2.78 	1665.3 	0.1939 	
 2 	2.77 	1658.0 	0.5910 	
@@ -12,14 +11,12 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	2.76 	2 	q 	7.31 	6 	M01 	[2.71 .. 2.80]
 2 	1.07 	3 	t 	7.31 	7 	M02 	[1.02 .. 1.11]
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	6 	2.76 	M01
 2 	7 	1.07 	M02

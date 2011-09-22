@@ -1,6 +1,5 @@
 # HMDB01254 (Glucosamine 6-phosphate) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	5.45 	2724.2 	0.9273 	
 2 	5.44 	2720.7 	1.0000 	
@@ -57,7 +56,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	5.45 	10 	d 	3.57 	18 	M01 	[5.42 .. 5.46]
 2 	4.94 	3 	d 	8.42 	2 	M02 	[4.91 .. 4.96]
@@ -71,7 +69,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	18 	5.45 	M01
 2 	2 	4.94 	M02

@@ -1,6 +1,5 @@
 # HMDB00329 (2-Phenylbutyric acid) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	7.40 	3697.7 	0.0911 	
 2 	7.38 	3689.8 	0.3821 	
@@ -42,7 +41,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	7.37 	37 	m 	- 	3, 5, 2, 6 	M01 	[7.33 .. 7.42]
 2 	7.30 	8 	m 	- 	4 	M02 	[7.27 .. 7.33]
@@ -53,7 +51,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	6 	7.37 	M01
 2 	2 	7.37 	M01

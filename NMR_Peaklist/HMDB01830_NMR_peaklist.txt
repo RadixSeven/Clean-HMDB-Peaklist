@@ -1,6 +1,5 @@
 # HMDB01830 (Progesterone) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	5.74 	2870.8 	0.2337 	
 2 	2.56 	1280.3 	0.0628 	
@@ -110,7 +109,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	5.74 	1 	s 	- 	13 	M01 	[5.71 .. 5.76]
 2 	2.54 	1 	t 	8.99 	7 	M02 	[2.51 .. 2.58]
@@ -135,7 +133,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	13 	5.74 	M01
 2 	7 	2.54 	M02

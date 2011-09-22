@@ -1,6 +1,5 @@
 # HMDB02212 (Arachidic acid) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	2.36 	1177.7 	0.0404 	
 2 	2.34 	1170.3 	0.0697 	
@@ -18,7 +17,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	2.34 	5 	t 	7.53 	4 	M01 	[2.25 .. 2.46]
 2 	1.63 	5 	m 	- 	6, 5 	M02 	[1.52 .. 1.74]
@@ -27,7 +25,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	4 	2.34 	M01
 2 	5 	1.63 	M02

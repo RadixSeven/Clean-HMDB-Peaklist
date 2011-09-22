@@ -1,6 +1,5 @@
 # HMDB01848 (Imipramine) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	7.17 	3583.5 	0.0623 	
 2 	7.17 	3582.0 	0.0693 	
@@ -33,7 +32,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	7.15 	7 	m 	- 	13, 9 	M01 	[7.13 .. 7.18]
 2 	7.11 	7 	m 	- 	15, 11 	M02 	[7.09 .. 7.13]
@@ -48,7 +46,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	9 	7.15 	M01
 2 	13 	7.15 	M01

@@ -1,6 +1,5 @@
 # HMDB01861 (3-Methylhistamine) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	8.02 	4809.8 	0.0880 	
 2 	7.07 	4242.8 	0.1239 	
@@ -14,7 +13,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	8.02 	1 	s 	- 	2 	M01 	[7.96 .. 8.05]
 2 	7.07 	1 	s 	- 	5 	M02 	[7.02 .. 7.11]
@@ -24,7 +22,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	2 	8.02 	M01
 2 	5 	7.07 	M02

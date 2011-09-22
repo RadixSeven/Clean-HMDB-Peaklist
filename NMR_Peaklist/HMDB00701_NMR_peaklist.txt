@@ -1,6 +1,5 @@
 # HMDB00701 (Hexanoylglycine) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	4.10 	2050.1 	0.9843 	
 2 	4.09 	2044.9 	1.0000 	
@@ -26,7 +25,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	4.10 	16 	d 	5.22 	4 	M01 	[4.01 .. 4.17]
 2 	2.26 	16 	t 	7.64 	8 	M02 	[2.19 .. 2.34]
@@ -36,7 +34,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	4 	4.10 	M01
 2 	8 	2.26 	M02

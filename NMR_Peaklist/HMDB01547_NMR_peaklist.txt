@@ -1,6 +1,5 @@
 # HMDB01547 (Corticosterone) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	5.76 	3456.0 	0.0633 	
 2 	4.42 	2650.4 	0.0196 	
@@ -99,7 +98,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	5.76 	1 	s 	- 	11 	M01 	[5.72 .. 5.80]
 2 	4.32 	1 	d 	- 	24 	M02 	[4.29 .. 4.35]
@@ -121,7 +119,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	19 	0.81 	M17
 2 	19 	0.82 	M16

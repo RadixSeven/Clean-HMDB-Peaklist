@@ -1,6 +1,5 @@
 # HMDB00077 (Dehydroepiandrosterone) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	5.39 	2692.2 	0.0121 	
 2 	5.38 	2690.1 	0.0125 	
@@ -92,7 +91,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	Atom1 	Multiplet1 	 (ppm)
 1 	5.38 	1 	m 	16 	M01 	[5.34 .. 5.42]
 2 	3.53 	3 	m 	13 	M02 	[3.45 .. 3.62]
@@ -112,7 +110,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	16 	5.38 	M01
 2 	13 	3.53 	M02

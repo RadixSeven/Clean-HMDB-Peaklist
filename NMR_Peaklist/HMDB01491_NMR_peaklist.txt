@@ -1,6 +1,5 @@
 # HMDB01491 (Pyridoxal 5'-phosphate) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	10.43 	5214.4 	0.3785 	
 2 	7.77 	3881.6 	0.4652 	
@@ -12,7 +11,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	10.43 	9 	s 	- 	9 	M01 	[10.40 .. 10.46]
 2 	7.77 	14 	s 	- 	6 	M02 	[7.72 .. 7.79]
@@ -22,7 +20,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	9 	10.43 	M01
 2 	6 	7.77 	M02

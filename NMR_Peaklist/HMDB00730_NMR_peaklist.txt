@@ -1,6 +1,5 @@
 # HMDB00730 (Isobutyrylglycine) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	4.10 	2049.8 	0.3321 	
 2 	4.09 	2044.6 	0.3475 	
@@ -16,7 +15,6 @@ No. 	(ppm) 	(Hz) 	Height
 
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	4.10 	17 	d 	5.12 	4 	M01 	[4.01 .. 4.17]
 2 	2.48 	7 	qq 	6.91 	8 	M02 	[2.39 .. 2.57]
@@ -24,7 +22,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	4 	4.10 	M01
 2 	8 	2.48 	M02

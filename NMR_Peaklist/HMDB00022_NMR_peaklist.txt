@@ -1,6 +1,5 @@
 # HMDB00022 (3-Methoxytyramine) HNMR Peaklists:
 Table of Peaks
-
 No. 	(ppm) 	(Hz) 	Height
 1 	6.99 	4192.2 	0.0571 	
 2 	6.99 	4190.4 	0.0570 	
@@ -20,7 +19,6 @@ No. 	(ppm) 	(Hz) 	Height
 16 	0.00 	0.0 	0.4026 	
 
 Table of Multiplets
-
 No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 1 	6.99 	1 	d 	1.81 	6 	M01 	[6.98 .. 7.01]
 2 	6.92 	1 	d 	8.08 	3 	M02 	[6.90 .. 6.94]
@@ -31,7 +29,6 @@ No. 	Shift1 (ppm) 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
 
 
 Table of Assignments
-
 No. 	Atom 	Exp. Shift (ppm) 	Multiplet
 1 	10 	2.94 	M06
 2 	11 	3.26 	M05
