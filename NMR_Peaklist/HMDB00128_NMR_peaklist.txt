@@ -1,16 +1,16 @@
 # HMDB00128 (Guanidoacetic acid) HNMR Peaklists:
 Table of Peaks
-No. 	(ppm) 	(Hz) 	Height
-1 	3.78 	1891.1 	1.0000 	
+No.	(ppm)	(Hz)	Height
+1	3.78	1891.1	1.0000	
 
 
 Table of Multiplets
-No. 	Shift1 (ppm) 	H's 	Type 	Atom1 	Multiplet1 	 (ppm)
-1 	3.78 	6 	s 	4 	M01 	[3.71 .. 3.84]
+No.	Shift1 (ppm)	H's	Type	Atom1	Multiplet1	(ppm)
+1	3.78	6	s	4	M01	[3.71 .. 3.84]
 
 Table of Assignments
-No. 	Atom 	Exp. Shift (ppm) 	Multiplet
-1 	4 	3.78 	M01
+No.	Atom	Exp. Shift (ppm)	Multiplet
+1	4	3.78	M01
 
 
 
