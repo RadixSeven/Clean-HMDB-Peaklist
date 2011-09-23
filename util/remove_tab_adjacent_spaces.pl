@@ -2,6 +2,13 @@
 use strict;
 use warnings;
 
+#####
+# Usage: remove_tab_adjacent_spaces.pl file1 file2 file3
+#
+# The files will be modified and so that there are no space characters
+# that are next to tabs.
+#####
+
 for my $file (@ARGV){
     my $contents;
     {
