@@ -1,28 +1,28 @@
 # HMDB00397 (2-Pyrocatechuic acid) HNMR Peaklists:
 Table of Peaks
-No. 	(ppm) 	(Hz) 	Height
-1 	6.800 	4082.46 	0.4701
-2 	6.814 	4090.38 	1.0000
-3 	6.827 	4098.31 	0.5433
-4 	7.072 	4245.32 	0.6003
-5 	7.082 	4251.48 	0.4863
-6 	7.085 	4253.24 	0.5349
-7 	7.367 	4422.70 	0.5336
-8 	7.380 	4430.62 	0.4953
+No.	(ppm)	(Hz)	Height
+1	6.800	4082.46	0.4701
+2	6.814	4090.38	1.0000
+3	6.827	4098.31	0.5433
+4	7.072	4245.32	0.6003
+5	7.082	4251.48	0.4863
+6	7.085	4253.24	0.5349
+7	7.367	4422.70	0.5336
+8	7.380	4430.62	0.4953
 
 Table of Multiplets
-No. 	H's 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
-1 	72 	t 	7.92 	5 	M01 	[6.77 .. 6.84]
-2 	89 	m 	- 	6 	M02 	[7.04 .. 7.11]
-3 	63 	d 	7.92 	4 	M03 	[7.33 .. 7.39]
+No.	H's	Type	J (Hz)	Atom1	Multiplet1	(ppm)
+1	72	t	7.92	5	M01	[6.77 .. 6.84]
+2	89	m	-	6	M02	[7.04 .. 7.11]
+3	63	d	7.92	4	M03	[7.33 .. 7.39]
 
 Table of Assignments
-No. 	Atom 	Multiplet
-1 	5 	M01
-2 	6 	M02
-3 	4 	M03
+No.	Atom	Multiplet
+1	5	M01
+2	6	M02
+3	4	M03
 
-Experiment Metadata
+Table of Experiment Metadata
 2-Pyrocatechuic acid 
 HMDB00397 
 1DNMR spectrum:600MHz in H2O
