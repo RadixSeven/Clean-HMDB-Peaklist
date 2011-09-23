@@ -77,6 +77,15 @@ foreach my $file (@ARGV){
 	    if (m/^No\.([ \t])[A-z.()]/){
 		$sep = $1;
 		my @fields = split(qr/$sep/);
+		if (find_first(qr/^Height$/,\@fields) == -1){
+		    my $h_idx = find_first(qr/Height/i,\@fields);
+		    if($h_idx != -1){
+			print STDERR "$file : Has non-standard height field: ".
+			    "'$fields[$h_idx]'\n";
+		    }else{
+			print STDERR "$file : is missing height field'\n";
+		    }
+		}
 		if($numlines eq 'oneline'){
 		    print join("\t", @fields),"\n";
 		}else{
