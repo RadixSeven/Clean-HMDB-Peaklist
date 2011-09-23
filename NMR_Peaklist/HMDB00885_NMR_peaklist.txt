@@ -132,7 +132,7 @@ No.	Atom	Exp. Shift (ppm)	Multiplet
 
 # HMDB00885 (CE(16:0)) 2D HSQC Peaklist:
 #	F2[ppm]	F1[ppm]	Intensity
-		
+	
 1	5.3799	122.5213	4948713
 2	4.6256	73.7216	1440774
 3	2.3199	38.0884	4504015
