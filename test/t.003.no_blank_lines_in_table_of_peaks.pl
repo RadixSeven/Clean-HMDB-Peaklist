@@ -64,7 +64,8 @@ foreach my $file (@files){
 		}else{ die "Separator regexp matched something that wasn't ".
 			   "a space or a tab."; 
 		}
-		$data_line_regex = qr/^\d+($sep-?\d*\.?\d+){2,}\s*$/;
+		$data_line_regex = 
+		    qr/^\d+($sep-?\d*\.?\d+){2,}(${sep}Gauss\+Lorentz)?\s*$/;
 		$table_state = SEEN_HEADER;
 		next;
 	    }else{
