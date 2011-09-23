@@ -37,7 +37,7 @@ No.	Atom	Exp. Shift (ppm)	Multiplet
      2   6.9022          122.9829     13513724.00
      3   6.9015          118.1944     17346774.00
      4   3.8510            58.5496     30574502.00
-     5*  4.9173	76.8548		Note: 5* - peak under the water signal
+     5*  4.9173	76.8548	Note: 5* - peak under the water signal
      
 
  

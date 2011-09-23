@@ -32,13 +32,13 @@ No.	Shift1 (ppm)	H's	Type	J (Hz)	Atom1	Multiplet1	(ppm)
 
 Table of Assignments
 No.	Atom	Exp. Shift (ppm)	Multiplet
-1	10	2.93		M07
-2	11	3.79		M06
-3	14	3.81		M05
-4	7	6.74		M04
-5	6	7.02		M03
-6	2	7.03		M02
-7	9	7.20		M01
+1	10	2.93	M07
+2	11	3.79	M06
+3	14	3.81	M05
+4	7	6.74	M04
+5	6	7.02	M03
+6	2	7.03	M02
+7	9	7.20	M01
 
 
  
