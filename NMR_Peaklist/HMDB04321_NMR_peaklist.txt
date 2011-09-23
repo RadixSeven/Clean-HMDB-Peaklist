@@ -46,7 +46,7 @@ No.	(ppm)	Height
 43	5.40	0.0250
 
 Table of Multiplets
-No.	Shift1 (ppm)	H's	Type		Multiplet1	 (ppm)
+No.	Shift1 (ppm)	H's	Type		Multiplet1	(ppm)
 1	1.44		1	dq		M08		[1.43 .. 1.52]
 2	1.65		3	s		M07		[1.63 .. 1.67]
 3	1.73		3	s		M06		[1.72 .. 1.75]

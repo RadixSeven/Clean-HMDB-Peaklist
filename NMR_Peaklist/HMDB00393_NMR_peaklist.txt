@@ -14,7 +14,7 @@ No.	(ppm)	(Hz)	Height
 11	5.621	3371.00	0.1037
 
 Table of Multiplets
-No.	Shift1 (ppm)	H's	Type	J (Hz)	Atom1	Multiplet1	 (ppm)
+No.	Shift1 (ppm)	H's	Type	J (Hz)	Atom1	Multiplet1	(ppm)
 1	2.937	4	m	-	7, 4	M02	[2.925 .. 2.949]
 2	5.611	2	tt	3.86, 2.01, 1.70	5, 6	M01	[5.596 .. 5.625]
 
@@ -28,8 +28,8 @@ No.	Atom	Exp. Shift (ppm)	Multiplet
 
 # HMDB00393 (3-Hexenedioic acid) 2D HSQC Peaklist:
 	#	F2[ppm]	F1[ppm]	Intensity
-	1   	5.6195 	129.8461 	10000946.00
-	2   	2.9396 	43.9599 	44852707.00
+	1	5.6195	129.8461	10000946.00
+	2	2.9396	43.9599	44852707.00
  
 
 

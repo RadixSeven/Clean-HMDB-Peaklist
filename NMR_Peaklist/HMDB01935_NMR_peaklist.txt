@@ -67,7 +67,7 @@ No.	(ppm)	Height
 64	7.94	0.0145
 
 Table of Multiplets
-No.	Shift1 (ppm)	H's	Type	Atom1			Multiplet1	 (ppm)
+No.	Shift1 (ppm)	H's	Type	Atom1			Multiplet1	(ppm)
 1	1.64		3	s	23			M10	[1.62 .. 1.67]
 2	1.71		3	s	23			M09	[1.68 .. 1.74]
 3	1.96		1	dd	13			M08	[1.94 .. 2.02]
