@@ -79,7 +79,6 @@ foreach my $file (@files){
 		$table_state = SEEN_DATA_LINE;
 		next;
 	    }else{
-#		last; #DEBUG - to only find certain problems -remove later
 		$expected="A line with 3+ ${sep_in_english}-separated data ".
 		    "fields (the first being an integer)";
 		$got=$_;
@@ -95,7 +94,6 @@ foreach my $file (@files){
 		$table_state = SEEN_BLANK_LINE;
 		next;
 	    }else{
-#		last; #DEBUG - to only find certain problems -remove later
 		$expected="A blank line or a line with 3+ ${sep_in_english}-".
 		    "separated data fields (the first being an integer)";
 		$got=$_;
@@ -113,7 +111,6 @@ foreach my $file (@files){
 		$table_state = OUTSIDE;
 		next;
 	    }else{
-#		last; #DEBUG - to only find certain problems -remove later
 		$expected="A blank line or the start of a new table";
 		$got=$_;
 		last;
