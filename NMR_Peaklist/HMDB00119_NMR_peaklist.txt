@@ -5,7 +5,7 @@ No.	(ppm)	(Hz)	Height
 2	5.09	2541.7	1.0000
 
 Table of Multiplets
-No.	Shift1 (ppm)	H's	Type	J (Hz)		Atom1	Multiplet1	(ppm)
+No.	Shift1 (ppm)	H's	Type	J (Hz)	Atom1	Multiplet1	(ppm)
 1	5.09	1	s	4	M01	[5.05 .. 5.13]
 2	9.39	1	s	3	M00	[9.36 .. 9.41]
 
