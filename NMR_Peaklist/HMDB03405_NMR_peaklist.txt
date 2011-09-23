@@ -68,7 +68,6 @@ No.	Shift1 (ppm)	H's	Type	J (Hz)	Atom1	Multiplet1	 (ppm)
 
 
 Table of Assignments
-
 No.	Atom	Exp. Shift (ppm)	Multiplet
 1	7	1.44			M05
 2	8	1.72			M04
@@ -76,10 +75,6 @@ No.	Atom	Exp. Shift (ppm)	Multiplet
 4	9	3.01			M02
 5	4	3.75			M01
 
-
-Table of Assignments
-
- 
 
 
 # HMDB03405 (D-Lysine) 2D HSQC Peaklist:
