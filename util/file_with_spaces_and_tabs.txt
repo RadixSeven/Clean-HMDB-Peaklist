@@ -1,0 +1,8 @@
+a b space
+a	b tab
+a 	b space tab
+a	 b tab space
+a	 	b tab space tab
+a 	 b space tab space
+a  	b space space tab
+a 	  b space tab space space
