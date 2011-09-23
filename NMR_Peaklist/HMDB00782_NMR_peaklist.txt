@@ -13,10 +13,10 @@ No.	(ppm)	Height
 10	2.20	0.0278
 
 Table of Multiplets
-No.	Shift1 (ppm)	H's	Type	Atom1		Multiplet1	(ppm)
+No.	Shift1 (ppm)	H's	Type	Atom1	Multiplet1	(ppm)
 1	1.23	24	m	17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6	M03	[1.13 .. 1.32]
-2	1.48	4	m	18, 5		M02	[1.41 .. 1.54]
-3	2.19	4	m	19, 4		M01	[2.11 .. 2.24]
+2	1.48	4	m	18, 5	M02	[1.41 .. 1.54]
+3	2.19	4	m	19, 4	M01	[2.11 .. 2.24]
 
 Table of Assignments
 No.	Atom	Exp. Shift (ppm)	Multiplet
