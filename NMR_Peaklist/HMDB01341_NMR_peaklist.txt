@@ -41,7 +41,7 @@ No.	Shift1 (ppm)	H's	Type	Atom1		Multiplet1	 (ppm)
 6	8.54		1	s	7		M01		[8.51 .. 8.56]
 
 Table of Assignments
-vNo.	Atom	Exp. Shift (ppm)	Multiplet
+No.	Atom	Exp. Shift (ppm)	Multiplet
 1	17	4.16			M05
 2	5	4.16			M05
 3	4	4.16			M05
