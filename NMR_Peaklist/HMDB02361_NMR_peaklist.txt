@@ -27,11 +27,11 @@ No.	Atom	Exp. Shift (ppm)	Multiplet
 24	4	2.34	M01
 
 Table of Multiplets
-No.	Shift1 (ppm)	H's	Type	Atom1										Multiplet1	(ppm)
-1	1.26		40	m	27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7	M04	[1.21 .. 1.31]
-2	1.32		2	m	6										M03	[1.31 .. 1.37]
-3	1.61		2	quin	5										M02	[1.60 .. 1.68]
-4	2.34		2	t	4										M01	[2.33 .. 2.38]
+No.	Shift1 (ppm)	H's	Type	Atom1	Multiplet1	(ppm)
+1	1.26	40	m	27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7	M04	[1.21 .. 1.31]
+2	1.32	2	m	6	M03	[1.31 .. 1.37]
+3	1.61	2	quin	5	M02	[1.60 .. 1.68]
+4	2.34	2	t	4	M01	[2.33 .. 2.38]
 
 Table of Peaks
 No.	(ppm)	(Hz)	Height

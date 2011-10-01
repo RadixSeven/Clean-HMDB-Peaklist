@@ -8,7 +8,7 @@ No.	H's	Type	J (Hz)	Atom1	Multiplet1	(ppm)
 5	1	d	7.92	3	M01	[7.64 .. 7.71
 
 Table of Peaks
-No.	(ppm)	(Hz)	           Height
+No.	(ppm)	(Hz)	Height
 1	2.327	1397.06	1.0000
 2	7.131	4280.97	0.1125
 3	7.145	4289.33	0.1220

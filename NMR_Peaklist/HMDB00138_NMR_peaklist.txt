@@ -149,7 +149,7 @@ No.	Atom	Exp. Shift (ppm)	Multiplet
 
 # HMDB00138 (Glycocholic acid) 2D HSQC Peaklist:
 #	F2[ppm]	F1[ppm]	Intensity
-			
+	
 1	4.0528	76.0185	490892
 2	3.8868	71.1778	411936
 3	3.7336	46.0359	210932

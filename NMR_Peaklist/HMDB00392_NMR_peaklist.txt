@@ -40,7 +40,7 @@ No.	Atom	Exp. Shift (ppm)	Multiplet
 7	5	6.646	M01
 
 Table of Multiplets
-No.	Shift1 (ppm)	H's	Type	J (Hz)	Atom1	Multiplet1	 (ppm)
+No.	Shift1 (ppm)	H's	Type	J (Hz)	Atom1	Multiplet1	(ppm)
 1	0.858	3	t	7.03	10	M06	[0.828 .. 0.889]
 2	1.287	4	m	-	8, 9	M05	[1.232 .. 1.339]
 3	1.432	2	m	-	7	M04	[1.390 .. 1.471]

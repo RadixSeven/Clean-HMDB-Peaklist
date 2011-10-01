@@ -13,16 +13,16 @@ No.	(ppm)	Height
 10	5.11	0.0060
 
 Table of Multiplets
-No.	Shift1 (ppm)	H's	Type	J (Hz)	Atom1		Multiplet1	 (ppm)
-1	1.21		3	d	6.82	17		M03		[1.19 .. 1.22]
-2	4.10		2	m	-	10		M02		[4.09 .. 4.11]
-3	5.07		1	q	-	15		M01		[5.06 .. 5.13]
+No.	Shift1 (ppm)	H's	Type	J (Hz)	Atom1	Multiplet1	(ppm)
+1	1.21	3	d	6.82	17	M03	[1.19 .. 1.22]
+2	4.10	2	m	-	10	M02	[4.09 .. 4.11]
+3	5.07	1	q	-	15	M01	[5.06 .. 5.13]
 
 Table of Assignments
 No.	Atom	Exp. Shift (ppm)	Multiplet
-1	17	1.21			M03
-2	10	4.10			M02
-3	15	5.07			M01
+1	17	1.21	M03
+2	10	4.10	M02
+3	15	5.07	M01
 
 
  

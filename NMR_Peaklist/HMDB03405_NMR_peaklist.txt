@@ -59,27 +59,22 @@ No.	(ppm)	Height
 56	3.76	0.3383
 
 Table of Multiplets
-No.	Shift1 (ppm)	H's	Type	J (Hz)	Atom1	Multiplet1	 (ppm)
-1	1.44		1	m	-	7	M05		[1.38 .. 1.55]
-2	1.72		2	quin	7.51	8	M04		[1.68 .. 1.75]
-3	1.90		2	m	-	6	M03		[1.84 .. 1.96]
-4	3.01		2	t	7.57	9	M02		[2.98 .. 3.05]
-5	3.75		1	t	6.11	4	M01		[3.71 .. 3.79]
+No.	Shift1 (ppm)	H's	Type	J (Hz)	Atom1	Multiplet1	(ppm)
+1	1.44	1	m	-	7	M05	[1.38 .. 1.55]
+2	1.72	2	quin	7.51	8	M04	[1.68 .. 1.75]
+3	1.90	2	m	-	6	M03	[1.84 .. 1.96]
+4	3.01	2	t	7.57	9	M02	[2.98 .. 3.05]
+5	3.75	1	t	6.11	4	M01	[3.71 .. 3.79]
 
 
 Table of Assignments
-
 No.	Atom	Exp. Shift (ppm)	Multiplet
-1	7	1.44			M05
-2	8	1.72			M04
-3	6	1.90			M03
-4	9	3.01			M02
-5	4	3.75			M01
+1	7	1.44	M05
+2	8	1.72	M04
+3	6	1.90	M03
+4	9	3.01	M02
+5	4	3.75	M01
 
-
-Table of Assignments
-
- 
 
 
 # HMDB03405 (D-Lysine) 2D HSQC Peaklist:
