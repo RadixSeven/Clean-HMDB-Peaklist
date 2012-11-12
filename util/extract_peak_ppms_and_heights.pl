@@ -4,7 +4,7 @@ use warnings;
 
 ########################
 #
-# Usage: extract_peak_ppms.pl file1 file2 ...
+# Usage: extract_peak_ppms_and_heights.pl file1 file2 ...
 #
 # Takes a list of HMDB peaklist files on the command line (the name is
 # assumed to contain the HMDB ID number) and for each file prints the
